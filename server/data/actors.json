@@ -1,0 +1,6533 @@
+[
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Shah Rukh_Khan_594&backgroundColor=transparent",
+    "first_name": "Shah Rukh",
+    "last_name": "Khan",
+    "age": 60,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cricket",
+      "Video Games",
+      "Reading"
+    ],
+    "total_awards": 30,
+    "total_films": 108
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Amitabh_Bachchan_153&backgroundColor=transparent",
+    "first_name": "Amitabh",
+    "last_name": "Bachchan",
+    "age": 83,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry",
+      "Blogging",
+      "Classical Music"
+    ],
+    "total_awards": 52,
+    "total_films": 205
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Deepika_Padukone_619&backgroundColor=transparent",
+    "first_name": "Deepika",
+    "last_name": "Padukone",
+    "age": 40,
+    "nationality": "Indian",
+    "hobbies": [
+      "Badminton",
+      "Cooking",
+      "Yoga"
+    ],
+    "total_awards": 18,
+    "total_films": 42
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Alia_Bhatt_502&backgroundColor=transparent",
+    "first_name": "Alia",
+    "last_name": "Bhatt",
+    "age": 33,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Reading",
+      "Yoga"
+    ],
+    "total_awards": 14,
+    "total_films": 28
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kamal_Haasan_327&backgroundColor=transparent",
+    "first_name": "Kamal",
+    "last_name": "Haasan",
+    "age": 71,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing",
+      "Singing",
+      "Direction"
+    ],
+    "total_awards": 41,
+    "total_films": 230
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rajinikanth_Actor_809&backgroundColor=transparent",
+    "first_name": "Rajinikanth",
+    "last_name": "",
+    "age": 75,
+    "nationality": "Indian",
+    "hobbies": [
+      "Meditation",
+      "Reading",
+      "Philanthropy"
+    ],
+    "total_awards": 22,
+    "total_films": 170
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mohanlal_Actor_544&backgroundColor=transparent",
+    "first_name": "Mohanlal",
+    "last_name": "",
+    "age": 66,
+    "nationality": "Indian",
+    "hobbies": [
+      "Martial Arts",
+      "Cooking",
+      "Photography"
+    ],
+    "total_awards": 35,
+    "total_films": 350
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mammootty_Actor_853&backgroundColor=transparent",
+    "first_name": "Mammootty",
+    "last_name": "",
+    "age": 74,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Driving",
+      "Tech Gadgets"
+    ],
+    "total_awards": 38,
+    "total_films": 400
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Allu_Arjun_911&backgroundColor=transparent",
+    "first_name": "Allu",
+    "last_name": "Arjun",
+    "age": 43,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Drawing",
+      "Dancing"
+    ],
+    "total_awards": 12,
+    "total_films": 25
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Nayanthara_Actor_486&backgroundColor=transparent",
+    "first_name": "Nayanthara",
+    "last_name": "",
+    "age": 41,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga",
+      "Traveling",
+      "Reading"
+    ],
+    "total_awards": 15,
+    "total_films": 80
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_DiCaprio_478&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "DiCaprio",
+    "age": 51,
+    "nationality": "American",
+    "hobbies": [
+      "Scuba Diving",
+      "Art Collecting",
+      "Environmentalism"
+    ],
+    "total_awards": 25,
+    "total_films": 35
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Cillian_Murphy_862&backgroundColor=transparent",
+    "first_name": "Cillian",
+    "last_name": "Murphy",
+    "age": 50,
+    "nationality": "Irish",
+    "hobbies": [
+      "Playing Guitar",
+      "Running",
+      "Music Production"
+    ],
+    "total_awards": 16,
+    "total_films": 40
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Cruise_775&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Cruise",
+    "age": 64,
+    "nationality": "American",
+    "hobbies": [
+      "Flying Planes",
+      "Skydiving",
+      "Motorsports"
+    ],
+    "total_awards": 10,
+    "total_films": 52
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Brad_Pitt_347&backgroundColor=transparent",
+    "first_name": "Brad",
+    "last_name": "Pitt",
+    "age": 62,
+    "nationality": "American",
+    "hobbies": [
+      "Sculpting",
+      "Architecture",
+      "Wine Making"
+    ],
+    "total_awards": 15,
+    "total_films": 60
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Scarlett_Johansson_996&backgroundColor=transparent",
+    "first_name": "Scarlett",
+    "last_name": "Johansson",
+    "age": 41,
+    "nationality": "American",
+    "hobbies": [
+      "Singing",
+      "Hiking",
+      "Bakery"
+    ],
+    "total_awards": 12,
+    "total_films": 55
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Margot_Robbie_556&backgroundColor=transparent",
+    "first_name": "Margot",
+    "last_name": "Robbie",
+    "age": 36,
+    "nationality": "Australian",
+    "hobbies": [
+      "Tattooing",
+      "Surfing",
+      "Rollerblading"
+    ],
+    "total_awards": 8,
+    "total_films": 38
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Downey_1&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Downey",
+    "age": 31,
+    "nationality": "British",
+    "hobbies": [
+      "Environmentalism",
+      "Writing Poetry"
+    ],
+    "total_awards": 3,
+    "total_films": 20
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Morgan_Freeman_2&backgroundColor=transparent",
+    "first_name": "Morgan",
+    "last_name": "Freeman",
+    "age": 43,
+    "nationality": "Irish",
+    "hobbies": [
+      "Skiing",
+      "Photography"
+    ],
+    "total_awards": 18,
+    "total_films": 77
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ananya_Pillai_3&backgroundColor=transparent",
+    "first_name": "Ananya",
+    "last_name": "Pillai",
+    "age": 74,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking"
+    ],
+    "total_awards": 41,
+    "total_films": 187
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Chalamet_4&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Chalamet",
+    "age": 44,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Art Collecting",
+      "Yoga",
+      "Traveling"
+    ],
+    "total_awards": 4,
+    "total_films": 34
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Charlize_Coleman_5&backgroundColor=transparent",
+    "first_name": "Charlize",
+    "last_name": "Coleman",
+    "age": 25,
+    "nationality": "French",
+    "hobbies": [
+      "Gardening"
+    ],
+    "total_awards": 20,
+    "total_films": 74
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Affleck_6&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Affleck",
+    "age": 44,
+    "nationality": "Australian",
+    "hobbies": [
+      "Golf"
+    ],
+    "total_awards": 0,
+    "total_films": 11
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ajith_Devgn_7&backgroundColor=transparent",
+    "first_name": "Ajith",
+    "last_name": "Devgn",
+    "age": 41,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Running",
+      "Blogging"
+    ],
+    "total_awards": 12,
+    "total_films": 132
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hrithik_Singh_8&backgroundColor=transparent",
+    "first_name": "Hrithik",
+    "last_name": "Singh",
+    "age": 66,
+    "nationality": "Indian",
+    "hobbies": [
+      "Scuba Diving",
+      "Photography"
+    ],
+    "total_awards": 19,
+    "total_films": 97
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kajal_Kaif_9&backgroundColor=transparent",
+    "first_name": "Kajal",
+    "last_name": "Kaif",
+    "age": 64,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gadget Collecting",
+      "Scuba Diving"
+    ],
+    "total_awards": 51,
+    "total_films": 180
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dulquer_Arjun_10&backgroundColor=transparent",
+    "first_name": "Dulquer",
+    "last_name": "Arjun",
+    "age": 47,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf",
+      "Cooking"
+    ],
+    "total_awards": 9,
+    "total_films": 213
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Robert_Murphy_11&backgroundColor=transparent",
+    "first_name": "Robert",
+    "last_name": "Murphy",
+    "age": 62,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Blogging",
+      "Playing Guitar",
+      "Chess"
+    ],
+    "total_awards": 10,
+    "total_films": 48
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Coleman_12&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Coleman",
+    "age": 73,
+    "nationality": "French",
+    "hobbies": [
+      "Dancing",
+      "Reading",
+      "Skiing"
+    ],
+    "total_awards": 3,
+    "total_films": 10
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Charlize_Elba_13&backgroundColor=transparent",
+    "first_name": "Charlize",
+    "last_name": "Elba",
+    "age": 23,
+    "nationality": "German",
+    "hobbies": [
+      "Knitting"
+    ],
+    "total_awards": 1,
+    "total_films": 25
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Suriya_Rama Rao_14&backgroundColor=transparent",
+    "first_name": "Suriya",
+    "last_name": "Rama Rao",
+    "age": 49,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running"
+    ],
+    "total_awards": 38,
+    "total_films": 193
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ananya_Babu_15&backgroundColor=transparent",
+    "first_name": "Ananya",
+    "last_name": "Babu",
+    "age": 38,
+    "nationality": "Indian",
+    "hobbies": [
+      "Playing Guitar"
+    ],
+    "total_awards": 13,
+    "total_films": 172
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Jackman_16&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Jackman",
+    "age": 33,
+    "nationality": "Australian",
+    "hobbies": [
+      "Reading",
+      "Photography"
+    ],
+    "total_awards": 9,
+    "total_films": 34
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ben_Gadot_17&backgroundColor=transparent",
+    "first_name": "Ben",
+    "last_name": "Gadot",
+    "age": 58,
+    "nationality": "Australian",
+    "hobbies": [
+      "Art Collecting",
+      "Yoga",
+      "Surfing"
+    ],
+    "total_awards": 3,
+    "total_films": 81
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Matt_Downey_18&backgroundColor=transparent",
+    "first_name": "Matt",
+    "last_name": "Downey",
+    "age": 36,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Gardening"
+    ],
+    "total_awards": 2,
+    "total_films": 25
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Aamir_Roshan_19&backgroundColor=transparent",
+    "first_name": "Aamir",
+    "last_name": "Roshan",
+    "age": 40,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening",
+      "Painting"
+    ],
+    "total_awards": 16,
+    "total_films": 72
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Robert_Elba_20&backgroundColor=transparent",
+    "first_name": "Robert",
+    "last_name": "Elba",
+    "age": 27,
+    "nationality": "Australian",
+    "hobbies": [
+      "Writing Poetry"
+    ],
+    "total_awards": 9,
+    "total_films": 51
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranbir_Pallavi_21&backgroundColor=transparent",
+    "first_name": "Ranbir",
+    "last_name": "Pallavi",
+    "age": 38,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gadget Collecting",
+      "Environmentalism",
+      "Video Games"
+    ],
+    "total_awards": 19,
+    "total_films": 138
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keanu_Affleck_22&backgroundColor=transparent",
+    "first_name": "Keanu",
+    "last_name": "Affleck",
+    "age": 51,
+    "nationality": "American",
+    "hobbies": [
+      "Writing Poetry",
+      "Hiking"
+    ],
+    "total_awards": 2,
+    "total_films": 86
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Depp_23&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Depp",
+    "age": 68,
+    "nationality": "American",
+    "hobbies": [
+      "Painting",
+      "Environmentalism"
+    ],
+    "total_awards": 0,
+    "total_films": 93
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Butler_24&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Butler",
+    "age": 77,
+    "nationality": "Irish",
+    "hobbies": [
+      "Traveling",
+      "Gadget Collecting",
+      "Reading"
+    ],
+    "total_awards": 22,
+    "total_films": 83
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Elba_25&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Elba",
+    "age": 23,
+    "nationality": "German",
+    "hobbies": [
+      "Skiing",
+      "Cooking"
+    ],
+    "total_awards": 23,
+    "total_films": 110
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ryan_Robbie_26&backgroundColor=transparent",
+    "first_name": "Ryan",
+    "last_name": "Robbie",
+    "age": 37,
+    "nationality": "Australian",
+    "hobbies": [
+      "Chess"
+    ],
+    "total_awards": 2,
+    "total_films": 107
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samantha_Salmaan_27&backgroundColor=transparent",
+    "first_name": "Samantha",
+    "last_name": "Salmaan",
+    "age": 36,
+    "nationality": "Indian",
+    "hobbies": [
+      "Reading",
+      "Chess"
+    ],
+    "total_awards": 12,
+    "total_films": 182
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Akshay_Advani_28&backgroundColor=transparent",
+    "first_name": "Akshay",
+    "last_name": "Advani",
+    "age": 25,
+    "nationality": "Indian",
+    "hobbies": [
+      "Martial Arts",
+      "Video Games",
+      "Yoga"
+    ],
+    "total_awards": 25,
+    "total_films": 133
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranveer_Padukone_29&backgroundColor=transparent",
+    "first_name": "Ranveer",
+    "last_name": "Padukone",
+    "age": 36,
+    "nationality": "Indian",
+    "hobbies": [
+      "Classical Music",
+      "Badminton"
+    ],
+    "total_awards": 36,
+    "total_films": 244
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Timothee_Lawrence_30&backgroundColor=transparent",
+    "first_name": "Timothee",
+    "last_name": "Lawrence",
+    "age": 55,
+    "nationality": "German",
+    "hobbies": [
+      "Chess",
+      "Dancing"
+    ],
+    "total_awards": 14,
+    "total_films": 64
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Priyanka_Pillai_31&backgroundColor=transparent",
+    "first_name": "Priyanka",
+    "last_name": "Pillai",
+    "age": 54,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening"
+    ],
+    "total_awards": 5,
+    "total_films": 20
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Allu_Padukone_32&backgroundColor=transparent",
+    "first_name": "Allu",
+    "last_name": "Padukone",
+    "age": 45,
+    "nationality": "Indian",
+    "hobbies": [
+      "Traveling",
+      "Photography"
+    ],
+    "total_awards": 1,
+    "total_films": 71
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Charlize_Lawrence_33&backgroundColor=transparent",
+    "first_name": "Charlize",
+    "last_name": "Lawrence",
+    "age": 44,
+    "nationality": "Irish",
+    "hobbies": [
+      "Gadget Collecting"
+    ],
+    "total_awards": 17,
+    "total_films": 92
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ajith_Nair_34&backgroundColor=transparent",
+    "first_name": "Ajith",
+    "last_name": "Nair",
+    "age": 47,
+    "nationality": "Indian",
+    "hobbies": [
+      "Environmentalism"
+    ],
+    "total_awards": 1,
+    "total_films": 60
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mammootty_Arjun_35&backgroundColor=transparent",
+    "first_name": "Mammootty",
+    "last_name": "Arjun",
+    "age": 51,
+    "nationality": "Indian",
+    "hobbies": [
+      "Surfing"
+    ],
+    "total_awards": 27,
+    "total_films": 91
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Cumberbatch_36&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Cumberbatch",
+    "age": 54,
+    "nationality": "British",
+    "hobbies": [
+      "Tennis",
+      "Writing Poetry",
+      "Gardening"
+    ],
+    "total_awards": 4,
+    "total_films": 36
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dulquer_Babu_37&backgroundColor=transparent",
+    "first_name": "Dulquer",
+    "last_name": "Babu",
+    "age": 33,
+    "nationality": "Indian",
+    "hobbies": [
+      "Badminton",
+      "Golf"
+    ],
+    "total_awards": 3,
+    "total_films": 39
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Akshay_Salmaan_38&backgroundColor=transparent",
+    "first_name": "Akshay",
+    "last_name": "Salmaan",
+    "age": 66,
+    "nationality": "Indian",
+    "hobbies": [
+      "Skiing",
+      "Knitting"
+    ],
+    "total_awards": 11,
+    "total_films": 140
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Salman_Rama Rao_39&backgroundColor=transparent",
+    "first_name": "Salman",
+    "last_name": "Rama Rao",
+    "age": 31,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Environmentalism"
+    ],
+    "total_awards": 19,
+    "total_films": 106
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Henry_Damon_40&backgroundColor=transparent",
+    "first_name": "Henry",
+    "last_name": "Damon",
+    "age": 41,
+    "nationality": "French",
+    "hobbies": [
+      "Video Games"
+    ],
+    "total_awards": 6,
+    "total_films": 38
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Chris_Jackson_41&backgroundColor=transparent",
+    "first_name": "Chris",
+    "last_name": "Jackson",
+    "age": 53,
+    "nationality": "Irish",
+    "hobbies": [
+      "Skiing",
+      "Golf"
+    ],
+    "total_awards": 4,
+    "total_films": 84
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Pooja_Khan_42&backgroundColor=transparent",
+    "first_name": "Pooja",
+    "last_name": "Khan",
+    "age": 63,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking"
+    ],
+    "total_awards": 20,
+    "total_films": 70
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sidhart_Pillai_43&backgroundColor=transparent",
+    "first_name": "Sidhart",
+    "last_name": "Pillai",
+    "age": 74,
+    "nationality": "Indian",
+    "hobbies": [
+      "Art Collecting",
+      "Yoga",
+      "Running"
+    ],
+    "total_awards": 2,
+    "total_films": 21
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Deepika_Bhatt_44&backgroundColor=transparent",
+    "first_name": "Deepika",
+    "last_name": "Bhatt",
+    "age": 66,
+    "nationality": "Indian",
+    "hobbies": [
+      "Surfing",
+      "Gadget Collecting",
+      "Golf"
+    ],
+    "total_awards": 57,
+    "total_films": 213
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Yash_Chopra_45&backgroundColor=transparent",
+    "first_name": "Yash",
+    "last_name": "Chopra",
+    "age": 42,
+    "nationality": "Indian",
+    "hobbies": [
+      "Astronomy"
+    ],
+    "total_awards": 8,
+    "total_films": 102
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rashmika_Joshi_46&backgroundColor=transparent",
+    "first_name": "Rashmika",
+    "last_name": "Joshi",
+    "age": 63,
+    "nationality": "Indian",
+    "hobbies": [
+      "Skiing",
+      "Classical Music",
+      "Cricket"
+    ],
+    "total_awards": 8,
+    "total_films": 28
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dhanush_Advani_47&backgroundColor=transparent",
+    "first_name": "Dhanush",
+    "last_name": "Advani",
+    "age": 40,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening"
+    ],
+    "total_awards": 23,
+    "total_films": 81
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Henry_Pugh_48&backgroundColor=transparent",
+    "first_name": "Henry",
+    "last_name": "Pugh",
+    "age": 31,
+    "nationality": "Irish",
+    "hobbies": [
+      "Photography"
+    ],
+    "total_awards": 5,
+    "total_films": 61
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Pascal_49&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Pascal",
+    "age": 76,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Photography",
+      "Gadget Collecting",
+      "Chess"
+    ],
+    "total_awards": 1,
+    "total_films": 53
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Varun_Prabhu_50&backgroundColor=transparent",
+    "first_name": "Varun",
+    "last_name": "Prabhu",
+    "age": 61,
+    "nationality": "Indian",
+    "hobbies": [
+      "Martial Arts"
+    ],
+    "total_awards": 20,
+    "total_films": 190
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Shah Rukh_Patel_51&backgroundColor=transparent",
+    "first_name": "Shah Rukh",
+    "last_name": "Patel",
+    "age": 45,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf",
+      "Cooking",
+      "Gadget Collecting"
+    ],
+    "total_awards": 26,
+    "total_films": 145
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samuel_Jackman_52&backgroundColor=transparent",
+    "first_name": "Samuel",
+    "last_name": "Jackman",
+    "age": 72,
+    "nationality": "French",
+    "hobbies": [
+      "Yoga",
+      "Traveling"
+    ],
+    "total_awards": 11,
+    "total_films": 50
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_DiCaprio_53&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "DiCaprio",
+    "age": 48,
+    "nationality": "Australian",
+    "hobbies": [
+      "Golf"
+    ],
+    "total_awards": 5,
+    "total_films": 18
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Pugh_54&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Pugh",
+    "age": 76,
+    "nationality": "American",
+    "hobbies": [
+      "Tennis",
+      "Video Games",
+      "Badminton"
+    ],
+    "total_awards": 28,
+    "total_films": 105
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Brad_Lawrence_55&backgroundColor=transparent",
+    "first_name": "Brad",
+    "last_name": "Lawrence",
+    "age": 41,
+    "nationality": "French",
+    "hobbies": [
+      "Skiing",
+      "Golf"
+    ],
+    "total_awards": 9,
+    "total_films": 81
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samuel_Statham_56&backgroundColor=transparent",
+    "first_name": "Samuel",
+    "last_name": "Statham",
+    "age": 62,
+    "nationality": "American",
+    "hobbies": [
+      "Photography",
+      "Video Games",
+      "Writing Poetry"
+    ],
+    "total_awards": 6,
+    "total_films": 43
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Bale_57&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Bale",
+    "age": 39,
+    "nationality": "French",
+    "hobbies": [
+      "Cricket",
+      "Hiking",
+      "Writing Poetry"
+    ],
+    "total_awards": 1,
+    "total_films": 15
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rajkummar_Nair_58&backgroundColor=transparent",
+    "first_name": "Rajkummar",
+    "last_name": "Nair",
+    "age": 38,
+    "nationality": "Indian",
+    "hobbies": [
+      "Dancing",
+      "Painting",
+      "Photography"
+    ],
+    "total_awards": 13,
+    "total_films": 101
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Alia_Menon_59&backgroundColor=transparent",
+    "first_name": "Alia",
+    "last_name": "Menon",
+    "age": 50,
+    "nationality": "Indian",
+    "hobbies": [
+      "Badminton",
+      "Skiing"
+    ],
+    "total_awards": 20,
+    "total_films": 79
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Timothee_Reeves_60&backgroundColor=transparent",
+    "first_name": "Timothee",
+    "last_name": "Reeves",
+    "age": 34,
+    "nationality": "Irish",
+    "hobbies": [
+      "Badminton",
+      "Hiking"
+    ],
+    "total_awards": 26,
+    "total_films": 91
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rajinikanth_Arjun_61&backgroundColor=transparent",
+    "first_name": "Rajinikanth",
+    "last_name": "Arjun",
+    "age": 75,
+    "nationality": "Indian",
+    "hobbies": [
+      "Martial Arts"
+    ],
+    "total_awards": 3,
+    "total_films": 37
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mohanlal_Arjun_62&backgroundColor=transparent",
+    "first_name": "Mohanlal",
+    "last_name": "Arjun",
+    "age": 73,
+    "nationality": "Indian",
+    "hobbies": [
+      "Surfing",
+      "Cooking"
+    ],
+    "total_awards": 4,
+    "total_films": 124
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ayushmann_Sharma_63&backgroundColor=transparent",
+    "first_name": "Ayushmann",
+    "last_name": "Sharma",
+    "age": 29,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening"
+    ],
+    "total_awards": 16,
+    "total_films": 106
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tamannaah_Sanon_64&backgroundColor=transparent",
+    "first_name": "Tamannaah",
+    "last_name": "Sanon",
+    "age": 69,
+    "nationality": "Indian",
+    "hobbies": [
+      "Tennis",
+      "Playing Guitar",
+      "Cricket"
+    ],
+    "total_awards": 23,
+    "total_films": 197
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Christian_Gosling_65&backgroundColor=transparent",
+    "first_name": "Christian",
+    "last_name": "Gosling",
+    "age": 77,
+    "nationality": "American",
+    "hobbies": [
+      "Scuba Diving"
+    ],
+    "total_awards": 12,
+    "total_films": 63
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Portman_66&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Portman",
+    "age": 75,
+    "nationality": "British",
+    "hobbies": [
+      "Scuba Diving",
+      "Knitting"
+    ],
+    "total_awards": 16,
+    "total_films": 93
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samuel_Holland_67&backgroundColor=transparent",
+    "first_name": "Samuel",
+    "last_name": "Holland",
+    "age": 28,
+    "nationality": "British",
+    "hobbies": [
+      "Reading",
+      "Gardening"
+    ],
+    "total_awards": 3,
+    "total_films": 23
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Akshay_Pallavi_68&backgroundColor=transparent",
+    "first_name": "Akshay",
+    "last_name": "Pallavi",
+    "age": 65,
+    "nationality": "Indian",
+    "hobbies": [
+      "Video Games"
+    ],
+    "total_awards": 17,
+    "total_films": 66
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Fahadh_Chopra_69&backgroundColor=transparent",
+    "first_name": "Fahadh",
+    "last_name": "Chopra",
+    "age": 31,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry",
+      "Playing Guitar"
+    ],
+    "total_awards": 59,
+    "total_films": 231
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hrithik_Arjun_70&backgroundColor=transparent",
+    "first_name": "Hrithik",
+    "last_name": "Arjun",
+    "age": 39,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running",
+      "Skiing"
+    ],
+    "total_awards": 27,
+    "total_films": 105
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Butler_71&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Butler",
+    "age": 63,
+    "nationality": "American",
+    "hobbies": [
+      "Writing Poetry",
+      "Classical Music",
+      "Golf"
+    ],
+    "total_awards": 5,
+    "total_films": 29
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Johnny_Evans_72&backgroundColor=transparent",
+    "first_name": "Johnny",
+    "last_name": "Evans",
+    "age": 35,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Cricket",
+      "Tennis"
+    ],
+    "total_awards": 5,
+    "total_films": 20
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Amitabh_Raju_73&backgroundColor=transparent",
+    "first_name": "Amitabh",
+    "last_name": "Raju",
+    "age": 73,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf",
+      "Art Collecting"
+    ],
+    "total_awards": 19,
+    "total_films": 194
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Will_Jackman_74&backgroundColor=transparent",
+    "first_name": "Will",
+    "last_name": "Jackman",
+    "age": 28,
+    "nationality": "Australian",
+    "hobbies": [
+      "Tennis",
+      "Writing Poetry",
+      "Astronomy"
+    ],
+    "total_awards": 6,
+    "total_films": 111
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Murphy_75&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Murphy",
+    "age": 71,
+    "nationality": "American",
+    "hobbies": [
+      "Hiking"
+    ],
+    "total_awards": 31,
+    "total_films": 118
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Shah Rukh_Deverakonda_76&backgroundColor=transparent",
+    "first_name": "Shah Rukh",
+    "last_name": "Deverakonda",
+    "age": 30,
+    "nationality": "Indian",
+    "hobbies": [
+      "Surfing",
+      "Art Collecting"
+    ],
+    "total_awards": 1,
+    "total_films": 232
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tamannaah_Charan_77&backgroundColor=transparent",
+    "first_name": "Tamannaah",
+    "last_name": "Charan",
+    "age": 42,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Knitting",
+      "Scuba Diving"
+    ],
+    "total_awards": 29,
+    "total_films": 222
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Angelina_Washington_78&backgroundColor=transparent",
+    "first_name": "Angelina",
+    "last_name": "Washington",
+    "age": 26,
+    "nationality": "French",
+    "hobbies": [
+      "Playing Guitar",
+      "Surfing"
+    ],
+    "total_awards": 9,
+    "total_films": 69
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hugh_Pascal_79&backgroundColor=transparent",
+    "first_name": "Hugh",
+    "last_name": "Pascal",
+    "age": 26,
+    "nationality": "Australian",
+    "hobbies": [
+      "Chess",
+      "Tennis"
+    ],
+    "total_awards": 5,
+    "total_films": 60
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranveer_Khan_80&backgroundColor=transparent",
+    "first_name": "Ranveer",
+    "last_name": "Khan",
+    "age": 52,
+    "nationality": "Indian",
+    "hobbies": [
+      "Art Collecting",
+      "Surfing",
+      "Environmentalism"
+    ],
+    "total_awards": 42,
+    "total_films": 186
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Scarlett_Garfield_81&backgroundColor=transparent",
+    "first_name": "Scarlett",
+    "last_name": "Garfield",
+    "age": 60,
+    "nationality": "Irish",
+    "hobbies": [
+      "Gardening"
+    ],
+    "total_awards": 0,
+    "total_films": 55
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Brad_Affleck_82&backgroundColor=transparent",
+    "first_name": "Brad",
+    "last_name": "Affleck",
+    "age": 25,
+    "nationality": "Australian",
+    "hobbies": [
+      "Reading"
+    ],
+    "total_awards": 5,
+    "total_films": 109
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Cumberbatch_83&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Cumberbatch",
+    "age": 50,
+    "nationality": "Australian",
+    "hobbies": [
+      "Skiing",
+      "Blogging",
+      "Gardening"
+    ],
+    "total_awards": 1,
+    "total_films": 107
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mahesh_Kapoor_84&backgroundColor=transparent",
+    "first_name": "Mahesh",
+    "last_name": "Kapoor",
+    "age": 45,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking",
+      "Yoga"
+    ],
+    "total_awards": 5,
+    "total_films": 155
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Prabhas_Padukone_85&backgroundColor=transparent",
+    "first_name": "Prabhas",
+    "last_name": "Padukone",
+    "age": 65,
+    "nationality": "Indian",
+    "hobbies": [
+      "Martial Arts",
+      "Playing Guitar"
+    ],
+    "total_awards": 8,
+    "total_films": 215
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ben_Elba_86&backgroundColor=transparent",
+    "first_name": "Ben",
+    "last_name": "Elba",
+    "age": 58,
+    "nationality": "German",
+    "hobbies": [
+      "Cricket",
+      "Astronomy"
+    ],
+    "total_awards": 8,
+    "total_films": 58
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Andrew_Chalamet_87&backgroundColor=transparent",
+    "first_name": "Andrew",
+    "last_name": "Chalamet",
+    "age": 48,
+    "nationality": "Australian",
+    "hobbies": [
+      "Gardening",
+      "Cooking",
+      "Skiing"
+    ],
+    "total_awards": 17,
+    "total_films": 91
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Natalie_Cumberbatch_88&backgroundColor=transparent",
+    "first_name": "Natalie",
+    "last_name": "Cumberbatch",
+    "age": 40,
+    "nationality": "American",
+    "hobbies": [
+      "Golf",
+      "Gardening"
+    ],
+    "total_awards": 17,
+    "total_films": 101
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Priyanka_Joshi_89&backgroundColor=transparent",
+    "first_name": "Priyanka",
+    "last_name": "Joshi",
+    "age": 33,
+    "nationality": "Indian",
+    "hobbies": [
+      "Surfing",
+      "Yoga"
+    ],
+    "total_awards": 24,
+    "total_films": 138
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hrithik_Goud_90&backgroundColor=transparent",
+    "first_name": "Hrithik",
+    "last_name": "Goud",
+    "age": 70,
+    "nationality": "Indian",
+    "hobbies": [
+      "Astronomy"
+    ],
+    "total_awards": 24,
+    "total_films": 135
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranveer_Mehta_91&backgroundColor=transparent",
+    "first_name": "Ranveer",
+    "last_name": "Mehta",
+    "age": 45,
+    "nationality": "Indian",
+    "hobbies": [
+      "Astronomy"
+    ],
+    "total_awards": 6,
+    "total_films": 54
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Morgan_Gadot_92&backgroundColor=transparent",
+    "first_name": "Morgan",
+    "last_name": "Gadot",
+    "age": 60,
+    "nationality": "American",
+    "hobbies": [
+      "Scuba Diving",
+      "Dancing"
+    ],
+    "total_awards": 12,
+    "total_films": 44
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Amitabh_Menon_93&backgroundColor=transparent",
+    "first_name": "Amitabh",
+    "last_name": "Menon",
+    "age": 34,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cricket",
+      "Scuba Diving"
+    ],
+    "total_awards": 7,
+    "total_films": 35
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Pugh_94&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Pugh",
+    "age": 34,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Hiking",
+      "Skiing",
+      "Surfing"
+    ],
+    "total_awards": 0,
+    "total_films": 15
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dulquer_Bachchan_95&backgroundColor=transparent",
+    "first_name": "Dulquer",
+    "last_name": "Bachchan",
+    "age": 42,
+    "nationality": "Indian",
+    "hobbies": [
+      "Traveling",
+      "Chess"
+    ],
+    "total_awards": 26,
+    "total_films": 89
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sidhart_Salmaan_96&backgroundColor=transparent",
+    "first_name": "Sidhart",
+    "last_name": "Salmaan",
+    "age": 63,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening",
+      "Playing Guitar"
+    ],
+    "total_awards": 36,
+    "total_films": 223
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kajal_Raju_97&backgroundColor=transparent",
+    "first_name": "Kajal",
+    "last_name": "Raju",
+    "age": 57,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography"
+    ],
+    "total_awards": 2,
+    "total_films": 37
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Morgan_Bale_98&backgroundColor=transparent",
+    "first_name": "Morgan",
+    "last_name": "Bale",
+    "age": 39,
+    "nationality": "Australian",
+    "hobbies": [
+      "Classical Music",
+      "Traveling",
+      "Knitting"
+    ],
+    "total_awards": 22,
+    "total_films": 78
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ben_Robbie_99&backgroundColor=transparent",
+    "first_name": "Ben",
+    "last_name": "Robbie",
+    "age": 36,
+    "nationality": "Irish",
+    "hobbies": [
+      "Surfing",
+      "Scuba Diving"
+    ],
+    "total_awards": 10,
+    "total_films": 49
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samuel_Cumberbatch_100&backgroundColor=transparent",
+    "first_name": "Samuel",
+    "last_name": "Cumberbatch",
+    "age": 43,
+    "nationality": "British",
+    "hobbies": [
+      "Gadget Collecting"
+    ],
+    "total_awards": 21,
+    "total_films": 103
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Jackman_101&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Jackman",
+    "age": 41,
+    "nationality": "British",
+    "hobbies": [
+      "Photography",
+      "Gardening"
+    ],
+    "total_awards": 14,
+    "total_films": 83
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samuel_Reeves_102&backgroundColor=transparent",
+    "first_name": "Samuel",
+    "last_name": "Reeves",
+    "age": 45,
+    "nationality": "German",
+    "hobbies": [
+      "Photography"
+    ],
+    "total_awards": 0,
+    "total_films": 7
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Zendaya_Statham_103&backgroundColor=transparent",
+    "first_name": "Zendaya",
+    "last_name": "Statham",
+    "age": 49,
+    "nationality": "British",
+    "hobbies": [
+      "Scuba Diving",
+      "Yoga",
+      "Gardening"
+    ],
+    "total_awards": 1,
+    "total_films": 12
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Pascal_104&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Pascal",
+    "age": 48,
+    "nationality": "British",
+    "hobbies": [
+      "Golf",
+      "Art Collecting"
+    ],
+    "total_awards": 0,
+    "total_films": 60
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Portman_105&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Portman",
+    "age": 43,
+    "nationality": "American",
+    "hobbies": [
+      "Cooking",
+      "Cricket"
+    ],
+    "total_awards": 5,
+    "total_films": 44
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dhanush_Rao_106&backgroundColor=transparent",
+    "first_name": "Dhanush",
+    "last_name": "Rao",
+    "age": 45,
+    "nationality": "Indian",
+    "hobbies": [
+      "Skiing",
+      "Yoga",
+      "Environmentalism"
+    ],
+    "total_awards": 32,
+    "total_films": 196
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mammootty_Goud_107&backgroundColor=transparent",
+    "first_name": "Mammootty",
+    "last_name": "Goud",
+    "age": 57,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Video Games",
+      "Gadget Collecting"
+    ],
+    "total_awards": 31,
+    "total_films": 171
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Shah Rukh_Babu_108&backgroundColor=transparent",
+    "first_name": "Shah Rukh",
+    "last_name": "Babu",
+    "age": 50,
+    "nationality": "Indian",
+    "hobbies": [
+      "Video Games",
+      "Badminton"
+    ],
+    "total_awards": 6,
+    "total_films": 30
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dhanush_Goud_109&backgroundColor=transparent",
+    "first_name": "Dhanush",
+    "last_name": "Goud",
+    "age": 62,
+    "nationality": "Indian",
+    "hobbies": [
+      "Reading"
+    ],
+    "total_awards": 20,
+    "total_films": 155
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mammootty_Chopra_110&backgroundColor=transparent",
+    "first_name": "Mammootty",
+    "last_name": "Chopra",
+    "age": 52,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running"
+    ],
+    "total_awards": 18,
+    "total_films": 229
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vijay_Pallavi_111&backgroundColor=transparent",
+    "first_name": "Vijay",
+    "last_name": "Pallavi",
+    "age": 53,
+    "nationality": "Indian",
+    "hobbies": [
+      "Classical Music"
+    ],
+    "total_awards": 23,
+    "total_films": 205
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Charlize_Affleck_112&backgroundColor=transparent",
+    "first_name": "Charlize",
+    "last_name": "Affleck",
+    "age": 23,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Tennis",
+      "Knitting",
+      "Dancing"
+    ],
+    "total_awards": 5,
+    "total_films": 78
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Emma_Downey_113&backgroundColor=transparent",
+    "first_name": "Emma",
+    "last_name": "Downey",
+    "age": 39,
+    "nationality": "British",
+    "hobbies": [
+      "Blogging"
+    ],
+    "total_awards": 5,
+    "total_films": 19
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Timothee_Statham_114&backgroundColor=transparent",
+    "first_name": "Timothee",
+    "last_name": "Statham",
+    "age": 60,
+    "nationality": "German",
+    "hobbies": [
+      "Art Collecting",
+      "Golf"
+    ],
+    "total_awards": 23,
+    "total_films": 86
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Pitt_115&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Pitt",
+    "age": 58,
+    "nationality": "French",
+    "hobbies": [
+      "Photography"
+    ],
+    "total_awards": 21,
+    "total_films": 83
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hugh_Gadot_116&backgroundColor=transparent",
+    "first_name": "Hugh",
+    "last_name": "Gadot",
+    "age": 63,
+    "nationality": "British",
+    "hobbies": [
+      "Painting"
+    ],
+    "total_awards": 0,
+    "total_films": 105
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Salman_Advani_117&backgroundColor=transparent",
+    "first_name": "Salman",
+    "last_name": "Advani",
+    "age": 42,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography"
+    ],
+    "total_awards": 7,
+    "total_films": 94
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Pugh_118&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Pugh",
+    "age": 29,
+    "nationality": "American",
+    "hobbies": [
+      "Traveling"
+    ],
+    "total_awards": 8,
+    "total_films": 78
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ananya_Reddy_119&backgroundColor=transparent",
+    "first_name": "Ananya",
+    "last_name": "Reddy",
+    "age": 67,
+    "nationality": "Indian",
+    "hobbies": [
+      "Scuba Diving",
+      "Surfing",
+      "Painting"
+    ],
+    "total_awards": 39,
+    "total_films": 140
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Anushka_Devgn_120&backgroundColor=transparent",
+    "first_name": "Anushka",
+    "last_name": "Devgn",
+    "age": 74,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running",
+      "Hiking"
+    ],
+    "total_awards": 63,
+    "total_films": 245
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Trisha_Singh_121&backgroundColor=transparent",
+    "first_name": "Trisha",
+    "last_name": "Singh",
+    "age": 62,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry",
+      "Playing Guitar",
+      "Surfing"
+    ],
+    "total_awards": 12,
+    "total_films": 200
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sai_Sharma_122&backgroundColor=transparent",
+    "first_name": "Sai",
+    "last_name": "Sharma",
+    "age": 72,
+    "nationality": "Indian",
+    "hobbies": [
+      "Dancing",
+      "Cooking"
+    ],
+    "total_awards": 18,
+    "total_films": 97
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Murphy_123&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Murphy",
+    "age": 22,
+    "nationality": "Australian",
+    "hobbies": [
+      "Painting"
+    ],
+    "total_awards": 2,
+    "total_films": 30
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Lawrence_124&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Lawrence",
+    "age": 64,
+    "nationality": "German",
+    "hobbies": [
+      "Art Collecting",
+      "Badminton",
+      "Environmentalism"
+    ],
+    "total_awards": 1,
+    "total_films": 75
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Alia_Patel_125&backgroundColor=transparent",
+    "first_name": "Alia",
+    "last_name": "Patel",
+    "age": 64,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Cricket",
+      "Reading"
+    ],
+    "total_awards": 38,
+    "total_films": 228
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Idris_Pugh_126&backgroundColor=transparent",
+    "first_name": "Idris",
+    "last_name": "Pugh",
+    "age": 59,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Hiking",
+      "Badminton",
+      "Knitting"
+    ],
+    "total_awards": 0,
+    "total_films": 100
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Affleck_127&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Affleck",
+    "age": 52,
+    "nationality": "French",
+    "hobbies": [
+      "Gadget Collecting",
+      "Reading"
+    ],
+    "total_awards": 10,
+    "total_films": 46
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Anushka_Roshan_128&backgroundColor=transparent",
+    "first_name": "Anushka",
+    "last_name": "Roshan",
+    "age": 75,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking",
+      "Skiing",
+      "Gadget Collecting"
+    ],
+    "total_awards": 59,
+    "total_films": 204
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Timothee_Cavill_129&backgroundColor=transparent",
+    "first_name": "Timothee",
+    "last_name": "Cavill",
+    "age": 50,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Art Collecting",
+      "Scuba Diving"
+    ],
+    "total_awards": 5,
+    "total_films": 29
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ananya_Singh_130&backgroundColor=transparent",
+    "first_name": "Ananya",
+    "last_name": "Singh",
+    "age": 34,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking",
+      "Skiing",
+      "Traveling"
+    ],
+    "total_awards": 32,
+    "total_films": 146
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hugh_Statham_131&backgroundColor=transparent",
+    "first_name": "Hugh",
+    "last_name": "Statham",
+    "age": 22,
+    "nationality": "French",
+    "hobbies": [
+      "Traveling"
+    ],
+    "total_awards": 9,
+    "total_films": 97
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ben_Holland_132&backgroundColor=transparent",
+    "first_name": "Ben",
+    "last_name": "Holland",
+    "age": 50,
+    "nationality": "German",
+    "hobbies": [
+      "Knitting",
+      "Astronomy",
+      "Hiking"
+    ],
+    "total_awards": 2,
+    "total_films": 26
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hrithik_Kaif_133&backgroundColor=transparent",
+    "first_name": "Hrithik",
+    "last_name": "Kaif",
+    "age": 56,
+    "nationality": "Indian",
+    "hobbies": [
+      "Hiking",
+      "Painting"
+    ],
+    "total_awards": 0,
+    "total_films": 20
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samantha_Patel_134&backgroundColor=transparent",
+    "first_name": "Samantha",
+    "last_name": "Patel",
+    "age": 31,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography"
+    ],
+    "total_awards": 1,
+    "total_films": 142
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Henry_Jolie_135&backgroundColor=transparent",
+    "first_name": "Henry",
+    "last_name": "Jolie",
+    "age": 71,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Classical Music",
+      "Cricket",
+      "Golf"
+    ],
+    "total_awards": 6,
+    "total_films": 44
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kriti_Kumar_136&backgroundColor=transparent",
+    "first_name": "Kriti",
+    "last_name": "Kumar",
+    "age": 65,
+    "nationality": "Indian",
+    "hobbies": [
+      "Traveling",
+      "Yoga"
+    ],
+    "total_awards": 1,
+    "total_films": 222
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Chris_Coleman_137&backgroundColor=transparent",
+    "first_name": "Chris",
+    "last_name": "Coleman",
+    "age": 56,
+    "nationality": "American",
+    "hobbies": [
+      "Cooking"
+    ],
+    "total_awards": 25,
+    "total_films": 113
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Emma_DiCaprio_138&backgroundColor=transparent",
+    "first_name": "Emma",
+    "last_name": "DiCaprio",
+    "age": 78,
+    "nationality": "British",
+    "hobbies": [
+      "Photography",
+      "Martial Arts"
+    ],
+    "total_awards": 13,
+    "total_films": 50
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Andrew_Stone_139&backgroundColor=transparent",
+    "first_name": "Andrew",
+    "last_name": "Stone",
+    "age": 80,
+    "nationality": "American",
+    "hobbies": [
+      "Reading",
+      "Art Collecting",
+      "Astronomy"
+    ],
+    "total_awards": 6,
+    "total_films": 35
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Fahadh_Singh_140&backgroundColor=transparent",
+    "first_name": "Fahadh",
+    "last_name": "Singh",
+    "age": 47,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry",
+      "Badminton",
+      "Chess"
+    ],
+    "total_awards": 23,
+    "total_films": 154
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ben_Washington_141&backgroundColor=transparent",
+    "first_name": "Ben",
+    "last_name": "Washington",
+    "age": 77,
+    "nationality": "Irish",
+    "hobbies": [
+      "Knitting",
+      "Writing Poetry",
+      "Martial Arts"
+    ],
+    "total_awards": 19,
+    "total_films": 100
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Johnson_142&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Johnson",
+    "age": 60,
+    "nationality": "German",
+    "hobbies": [
+      "Blogging",
+      "Playing Guitar"
+    ],
+    "total_awards": 2,
+    "total_films": 17
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tamannaah_Kapoor_143&backgroundColor=transparent",
+    "first_name": "Tamannaah",
+    "last_name": "Kapoor",
+    "age": 66,
+    "nationality": "Indian",
+    "hobbies": [
+      "Environmentalism",
+      "Astronomy"
+    ],
+    "total_awards": 13,
+    "total_films": 110
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Timothee_Johnson_144&backgroundColor=transparent",
+    "first_name": "Timothee",
+    "last_name": "Johnson",
+    "age": 26,
+    "nationality": "American",
+    "hobbies": [
+      "Reading"
+    ],
+    "total_awards": 6,
+    "total_films": 24
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Pedro_Cumberbatch_145&backgroundColor=transparent",
+    "first_name": "Pedro",
+    "last_name": "Cumberbatch",
+    "age": 39,
+    "nationality": "American",
+    "hobbies": [
+      "Playing Guitar",
+      "Art Collecting"
+    ],
+    "total_awards": 2,
+    "total_films": 21
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sara_Charan_146&backgroundColor=transparent",
+    "first_name": "Sara",
+    "last_name": "Charan",
+    "age": 24,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga",
+      "Video Games",
+      "Gardening"
+    ],
+    "total_awards": 27,
+    "total_films": 103
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Chris_Butler_147&backgroundColor=transparent",
+    "first_name": "Chris",
+    "last_name": "Butler",
+    "age": 54,
+    "nationality": "American",
+    "hobbies": [
+      "Art Collecting",
+      "Scuba Diving",
+      "Video Games"
+    ],
+    "total_awards": 2,
+    "total_films": 35
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Varun_Pallavi_148&backgroundColor=transparent",
+    "first_name": "Varun",
+    "last_name": "Pallavi",
+    "age": 73,
+    "nationality": "Indian",
+    "hobbies": [
+      "Knitting",
+      "Astronomy",
+      "Tennis"
+    ],
+    "total_awards": 0,
+    "total_films": 186
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keerthy_Nair_149&backgroundColor=transparent",
+    "first_name": "Keerthy",
+    "last_name": "Nair",
+    "age": 51,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting"
+    ],
+    "total_awards": 15,
+    "total_films": 137
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samuel_Freeman_150&backgroundColor=transparent",
+    "first_name": "Samuel",
+    "last_name": "Freeman",
+    "age": 24,
+    "nationality": "Irish",
+    "hobbies": [
+      "Gadget Collecting",
+      "Running",
+      "Traveling"
+    ],
+    "total_awards": 1,
+    "total_films": 12
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Anushka_Patel_151&backgroundColor=transparent",
+    "first_name": "Anushka",
+    "last_name": "Patel",
+    "age": 51,
+    "nationality": "Indian",
+    "hobbies": [
+      "Surfing",
+      "Art Collecting",
+      "Classical Music"
+    ],
+    "total_awards": 10,
+    "total_films": 53
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Janvhi_Rao_152&backgroundColor=transparent",
+    "first_name": "Janvhi",
+    "last_name": "Rao",
+    "age": 51,
+    "nationality": "Indian",
+    "hobbies": [
+      "Badminton",
+      "Video Games"
+    ],
+    "total_awards": 2,
+    "total_films": 66
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Akshay_Chopra_153&backgroundColor=transparent",
+    "first_name": "Akshay",
+    "last_name": "Chopra",
+    "age": 63,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga",
+      "Art Collecting",
+      "Chess"
+    ],
+    "total_awards": 10,
+    "total_films": 75
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sara_Joshi_154&backgroundColor=transparent",
+    "first_name": "Sara",
+    "last_name": "Joshi",
+    "age": 47,
+    "nationality": "Indian",
+    "hobbies": [
+      "Martial Arts",
+      "Painting",
+      "Dancing"
+    ],
+    "total_awards": 24,
+    "total_films": 135
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=NTR_Joshi_155&backgroundColor=transparent",
+    "first_name": "NTR",
+    "last_name": "Joshi",
+    "age": 42,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry",
+      "Skiing",
+      "Photography"
+    ],
+    "total_awards": 24,
+    "total_films": 131
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rashmika_Mehta_156&backgroundColor=transparent",
+    "first_name": "Rashmika",
+    "last_name": "Mehta",
+    "age": 46,
+    "nationality": "Indian",
+    "hobbies": [
+      "Astronomy",
+      "Gardening",
+      "Classical Music"
+    ],
+    "total_awards": 0,
+    "total_films": 37
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Lawrence_157&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Lawrence",
+    "age": 29,
+    "nationality": "German",
+    "hobbies": [
+      "Classical Music"
+    ],
+    "total_awards": 12,
+    "total_films": 82
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Johnny_Bale_158&backgroundColor=transparent",
+    "first_name": "Johnny",
+    "last_name": "Bale",
+    "age": 21,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Badminton",
+      "Cricket",
+      "Skiing"
+    ],
+    "total_awards": 3,
+    "total_films": 11
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Christian_Elba_159&backgroundColor=transparent",
+    "first_name": "Christian",
+    "last_name": "Elba",
+    "age": 51,
+    "nationality": "American",
+    "hobbies": [
+      "Painting"
+    ],
+    "total_awards": 22,
+    "total_films": 120
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Will_Garfield_160&backgroundColor=transparent",
+    "first_name": "Will",
+    "last_name": "Garfield",
+    "age": 60,
+    "nationality": "German",
+    "hobbies": [
+      "Astronomy",
+      "Golf",
+      "Blogging"
+    ],
+    "total_awards": 15,
+    "total_films": 51
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mohanlal_Kaif_161&backgroundColor=transparent",
+    "first_name": "Mohanlal",
+    "last_name": "Kaif",
+    "age": 74,
+    "nationality": "Indian",
+    "hobbies": [
+      "Traveling",
+      "Writing Poetry",
+      "Badminton"
+    ],
+    "total_awards": 23,
+    "total_films": 211
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Angelina_Pitt_162&backgroundColor=transparent",
+    "first_name": "Angelina",
+    "last_name": "Pitt",
+    "age": 62,
+    "nationality": "French",
+    "hobbies": [
+      "Cricket",
+      "Martial Arts"
+    ],
+    "total_awards": 22,
+    "total_films": 79
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Morgan_Murphy_163&backgroundColor=transparent",
+    "first_name": "Morgan",
+    "last_name": "Murphy",
+    "age": 28,
+    "nationality": "French",
+    "hobbies": [
+      "Surfing",
+      "Knitting"
+    ],
+    "total_awards": 23,
+    "total_films": 81
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Christian_Chalamet_164&backgroundColor=transparent",
+    "first_name": "Christian",
+    "last_name": "Chalamet",
+    "age": 24,
+    "nationality": "American",
+    "hobbies": [
+      "Environmentalism",
+      "Writing Poetry",
+      "Art Collecting"
+    ],
+    "total_awards": 25,
+    "total_films": 84
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ben_Smith_165&backgroundColor=transparent",
+    "first_name": "Ben",
+    "last_name": "Smith",
+    "age": 69,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Surfing"
+    ],
+    "total_awards": 2,
+    "total_films": 56
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ajith_Reddy_166&backgroundColor=transparent",
+    "first_name": "Ajith",
+    "last_name": "Reddy",
+    "age": 72,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Knitting",
+      "Gardening"
+    ],
+    "total_awards": 40,
+    "total_films": 216
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ananya_Rao_167&backgroundColor=transparent",
+    "first_name": "Ananya",
+    "last_name": "Rao",
+    "age": 32,
+    "nationality": "Indian",
+    "hobbies": [
+      "Scuba Diving",
+      "Golf",
+      "Surfing"
+    ],
+    "total_awards": 2,
+    "total_films": 34
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rajkummar_Faasil_168&backgroundColor=transparent",
+    "first_name": "Rajkummar",
+    "last_name": "Faasil",
+    "age": 51,
+    "nationality": "Indian",
+    "hobbies": [
+      "Blogging"
+    ],
+    "total_awards": 2,
+    "total_films": 70
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kiara_Sethupathi_169&backgroundColor=transparent",
+    "first_name": "Kiara",
+    "last_name": "Sethupathi",
+    "age": 35,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running",
+      "Yoga"
+    ],
+    "total_awards": 61,
+    "total_films": 210
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Nayanthara_Faasil_170&backgroundColor=transparent",
+    "first_name": "Nayanthara",
+    "last_name": "Faasil",
+    "age": 34,
+    "nationality": "Indian",
+    "hobbies": [
+      "Tennis",
+      "Environmentalism",
+      "Hiking"
+    ],
+    "total_awards": 15,
+    "total_films": 90
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Garfield_171&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Garfield",
+    "age": 39,
+    "nationality": "Irish",
+    "hobbies": [
+      "Cricket"
+    ],
+    "total_awards": 19,
+    "total_films": 70
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=NTR_Patel_172&backgroundColor=transparent",
+    "first_name": "NTR",
+    "last_name": "Patel",
+    "age": 34,
+    "nationality": "Indian",
+    "hobbies": [
+      "Chess",
+      "Astronomy",
+      "Playing Guitar"
+    ],
+    "total_awards": 2,
+    "total_films": 56
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Pedro_Cavill_173&backgroundColor=transparent",
+    "first_name": "Pedro",
+    "last_name": "Cavill",
+    "age": 54,
+    "nationality": "British",
+    "hobbies": [
+      "Video Games"
+    ],
+    "total_awards": 2,
+    "total_films": 87
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Gosling_174&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Gosling",
+    "age": 77,
+    "nationality": "French",
+    "hobbies": [
+      "Hiking"
+    ],
+    "total_awards": 13,
+    "total_films": 77
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Gosling_175&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Gosling",
+    "age": 61,
+    "nationality": "French",
+    "hobbies": [
+      "Gardening"
+    ],
+    "total_awards": 8,
+    "total_films": 91
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keanu_Coleman_176&backgroundColor=transparent",
+    "first_name": "Keanu",
+    "last_name": "Coleman",
+    "age": 45,
+    "nationality": "Australian",
+    "hobbies": [
+      "Reading",
+      "Yoga",
+      "Surfing"
+    ],
+    "total_awards": 1,
+    "total_films": 53
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Varun_Reddy_177&backgroundColor=transparent",
+    "first_name": "Varun",
+    "last_name": "Reddy",
+    "age": 43,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf",
+      "Chess",
+      "Knitting"
+    ],
+    "total_awards": 34,
+    "total_films": 156
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Priyanka_Reddy_178&backgroundColor=transparent",
+    "first_name": "Priyanka",
+    "last_name": "Reddy",
+    "age": 37,
+    "nationality": "Indian",
+    "hobbies": [
+      "Environmentalism"
+    ],
+    "total_awards": 72,
+    "total_films": 243
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Nayanthara_Singh_179&backgroundColor=transparent",
+    "first_name": "Nayanthara",
+    "last_name": "Singh",
+    "age": 62,
+    "nationality": "Indian",
+    "hobbies": [
+      "Dancing",
+      "Astronomy",
+      "Hiking"
+    ],
+    "total_awards": 15,
+    "total_films": 222
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Henry_Cruise_180&backgroundColor=transparent",
+    "first_name": "Henry",
+    "last_name": "Cruise",
+    "age": 69,
+    "nationality": "French",
+    "hobbies": [
+      "Surfing"
+    ],
+    "total_awards": 16,
+    "total_films": 75
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Jackman_181&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Jackman",
+    "age": 73,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Golf"
+    ],
+    "total_awards": 2,
+    "total_films": 78
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Downey_182&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Downey",
+    "age": 25,
+    "nationality": "French",
+    "hobbies": [
+      "Scuba Diving"
+    ],
+    "total_awards": 12,
+    "total_films": 75
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keanu_Stone_183&backgroundColor=transparent",
+    "first_name": "Keanu",
+    "last_name": "Stone",
+    "age": 44,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Hiking"
+    ],
+    "total_awards": 25,
+    "total_films": 112
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ajith_Advani_184&backgroundColor=transparent",
+    "first_name": "Ajith",
+    "last_name": "Advani",
+    "age": 52,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening",
+      "Martial Arts"
+    ],
+    "total_awards": 0,
+    "total_films": 77
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Smith_185&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Smith",
+    "age": 36,
+    "nationality": "Australian",
+    "hobbies": [
+      "Writing Poetry"
+    ],
+    "total_awards": 1,
+    "total_films": 17
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Yash_Goud_186&backgroundColor=transparent",
+    "first_name": "Yash",
+    "last_name": "Goud",
+    "age": 40,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Classical Music"
+    ],
+    "total_awards": 2,
+    "total_films": 13
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Priyanka_Kapoor_187&backgroundColor=transparent",
+    "first_name": "Priyanka",
+    "last_name": "Kapoor",
+    "age": 71,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Martial Arts",
+      "Cooking"
+    ],
+    "total_awards": 4,
+    "total_films": 92
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mohanlal_Rao_188&backgroundColor=transparent",
+    "first_name": "Mohanlal",
+    "last_name": "Rao",
+    "age": 29,
+    "nationality": "Indian",
+    "hobbies": [
+      "Playing Guitar"
+    ],
+    "total_awards": 3,
+    "total_films": 203
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Matt_Lawrence_189&backgroundColor=transparent",
+    "first_name": "Matt",
+    "last_name": "Lawrence",
+    "age": 34,
+    "nationality": "Australian",
+    "hobbies": [
+      "Painting",
+      "Playing Guitar",
+      "Photography"
+    ],
+    "total_awards": 4,
+    "total_films": 58
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranbir_Kumar_190&backgroundColor=transparent",
+    "first_name": "Ranbir",
+    "last_name": "Kumar",
+    "age": 63,
+    "nationality": "Indian",
+    "hobbies": [
+      "Scuba Diving"
+    ],
+    "total_awards": 23,
+    "total_films": 152
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Johnny_Washington_191&backgroundColor=transparent",
+    "first_name": "Johnny",
+    "last_name": "Washington",
+    "age": 67,
+    "nationality": "Australian",
+    "hobbies": [
+      "Badminton",
+      "Traveling",
+      "Dancing"
+    ],
+    "total_awards": 1,
+    "total_films": 56
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Nayanthara_Kumar_192&backgroundColor=transparent",
+    "first_name": "Nayanthara",
+    "last_name": "Kumar",
+    "age": 36,
+    "nationality": "Indian",
+    "hobbies": [
+      "Scuba Diving",
+      "Surfing"
+    ],
+    "total_awards": 32,
+    "total_films": 213
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Christian_Portman_193&backgroundColor=transparent",
+    "first_name": "Christian",
+    "last_name": "Portman",
+    "age": 55,
+    "nationality": "German",
+    "hobbies": [
+      "Art Collecting",
+      "Chess",
+      "Playing Guitar"
+    ],
+    "total_awards": 4,
+    "total_films": 16
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samantha_Nair_194&backgroundColor=transparent",
+    "first_name": "Samantha",
+    "last_name": "Nair",
+    "age": 73,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cricket"
+    ],
+    "total_awards": 16,
+    "total_films": 178
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Scarlett_Gosling_195&backgroundColor=transparent",
+    "first_name": "Scarlett",
+    "last_name": "Gosling",
+    "age": 62,
+    "nationality": "American",
+    "hobbies": [
+      "Traveling",
+      "Surfing"
+    ],
+    "total_awards": 9,
+    "total_films": 66
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranveer_Kaif_196&backgroundColor=transparent",
+    "first_name": "Ranveer",
+    "last_name": "Kaif",
+    "age": 31,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking",
+      "Tennis",
+      "Traveling"
+    ],
+    "total_awards": 15,
+    "total_films": 183
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Johansson_197&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Johansson",
+    "age": 73,
+    "nationality": "Irish",
+    "hobbies": [
+      "Knitting"
+    ],
+    "total_awards": 3,
+    "total_films": 27
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Deepika_Devgn_198&backgroundColor=transparent",
+    "first_name": "Deepika",
+    "last_name": "Devgn",
+    "age": 26,
+    "nationality": "Indian",
+    "hobbies": [
+      "Tennis"
+    ],
+    "total_awards": 12,
+    "total_films": 67
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Cillian_Pascal_199&backgroundColor=transparent",
+    "first_name": "Cillian",
+    "last_name": "Pascal",
+    "age": 33,
+    "nationality": "Irish",
+    "hobbies": [
+      "Badminton"
+    ],
+    "total_awards": 2,
+    "total_films": 58
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Priyanka_Sanon_200&backgroundColor=transparent",
+    "first_name": "Priyanka",
+    "last_name": "Sanon",
+    "age": 63,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Traveling"
+    ],
+    "total_awards": 41,
+    "total_films": 211
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Prabhas_Deverakonda_201&backgroundColor=transparent",
+    "first_name": "Prabhas",
+    "last_name": "Deverakonda",
+    "age": 60,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga",
+      "Tennis",
+      "Skiing"
+    ],
+    "total_awards": 44,
+    "total_films": 163
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Pooja_Menon_202&backgroundColor=transparent",
+    "first_name": "Pooja",
+    "last_name": "Menon",
+    "age": 50,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running",
+      "Playing Guitar"
+    ],
+    "total_awards": 40,
+    "total_films": 170
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Trisha_Arjun_203&backgroundColor=transparent",
+    "first_name": "Trisha",
+    "last_name": "Arjun",
+    "age": 62,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gadget Collecting",
+      "Tennis",
+      "Art Collecting"
+    ],
+    "total_awards": 52,
+    "total_films": 228
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Timothee_Jackson_204&backgroundColor=transparent",
+    "first_name": "Timothee",
+    "last_name": "Jackson",
+    "age": 30,
+    "nationality": "American",
+    "hobbies": [
+      "Dancing",
+      "Photography",
+      "Badminton"
+    ],
+    "total_awards": 27,
+    "total_films": 93
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ram_Advani_205&backgroundColor=transparent",
+    "first_name": "Ram",
+    "last_name": "Advani",
+    "age": 37,
+    "nationality": "Indian",
+    "hobbies": [
+      "Playing Guitar"
+    ],
+    "total_awards": 1,
+    "total_films": 26
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sara_Pillai_206&backgroundColor=transparent",
+    "first_name": "Sara",
+    "last_name": "Pillai",
+    "age": 25,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting"
+    ],
+    "total_awards": 21,
+    "total_films": 165
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Alia_Rao_207&backgroundColor=transparent",
+    "first_name": "Alia",
+    "last_name": "Rao",
+    "age": 23,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running"
+    ],
+    "total_awards": 5,
+    "total_films": 61
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Chris_Affleck_208&backgroundColor=transparent",
+    "first_name": "Chris",
+    "last_name": "Affleck",
+    "age": 64,
+    "nationality": "German",
+    "hobbies": [
+      "Painting",
+      "Skiing",
+      "Astronomy"
+    ],
+    "total_awards": 21,
+    "total_films": 120
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Henry_Garfield_209&backgroundColor=transparent",
+    "first_name": "Henry",
+    "last_name": "Garfield",
+    "age": 77,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Badminton",
+      "Classical Music",
+      "Yoga"
+    ],
+    "total_awards": 10,
+    "total_films": 39
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranbir_Joshi_210&backgroundColor=transparent",
+    "first_name": "Ranbir",
+    "last_name": "Joshi",
+    "age": 52,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gadget Collecting",
+      "Yoga",
+      "Gardening"
+    ],
+    "total_awards": 11,
+    "total_films": 109
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ananya_Sanon_211&backgroundColor=transparent",
+    "first_name": "Ananya",
+    "last_name": "Sanon",
+    "age": 30,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening",
+      "Running"
+    ],
+    "total_awards": 3,
+    "total_films": 15
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Scarlett_Pascal_212&backgroundColor=transparent",
+    "first_name": "Scarlett",
+    "last_name": "Pascal",
+    "age": 71,
+    "nationality": "French",
+    "hobbies": [
+      "Environmentalism",
+      "Golf",
+      "Badminton"
+    ],
+    "total_awards": 16,
+    "total_films": 55
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sai_Nair_213&backgroundColor=transparent",
+    "first_name": "Sai",
+    "last_name": "Nair",
+    "age": 60,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry",
+      "Chess"
+    ],
+    "total_awards": 7,
+    "total_films": 228
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Will_Affleck_214&backgroundColor=transparent",
+    "first_name": "Will",
+    "last_name": "Affleck",
+    "age": 67,
+    "nationality": "British",
+    "hobbies": [
+      "Martial Arts"
+    ],
+    "total_awards": 14,
+    "total_films": 88
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Pooja_Advani_215&backgroundColor=transparent",
+    "first_name": "Pooja",
+    "last_name": "Advani",
+    "age": 27,
+    "nationality": "Indian",
+    "hobbies": [
+      "Skiing",
+      "Gadget Collecting"
+    ],
+    "total_awards": 18,
+    "total_films": 188
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ram_Arjun_216&backgroundColor=transparent",
+    "first_name": "Ram",
+    "last_name": "Arjun",
+    "age": 59,
+    "nationality": "Indian",
+    "hobbies": [
+      "Knitting"
+    ],
+    "total_awards": 18,
+    "total_films": 202
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Henry_Theron_217&backgroundColor=transparent",
+    "first_name": "Henry",
+    "last_name": "Theron",
+    "age": 31,
+    "nationality": "German",
+    "hobbies": [
+      "Cricket",
+      "Gardening",
+      "Hiking"
+    ],
+    "total_awards": 0,
+    "total_films": 31
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Morgan_Cumberbatch_218&backgroundColor=transparent",
+    "first_name": "Morgan",
+    "last_name": "Cumberbatch",
+    "age": 56,
+    "nationality": "Australian",
+    "hobbies": [
+      "Writing Poetry",
+      "Blogging",
+      "Martial Arts"
+    ],
+    "total_awards": 10,
+    "total_films": 47
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Nayanthara_Rama Rao_219&backgroundColor=transparent",
+    "first_name": "Nayanthara",
+    "last_name": "Rama Rao",
+    "age": 46,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry",
+      "Knitting"
+    ],
+    "total_awards": 50,
+    "total_films": 197
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Holland_220&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Holland",
+    "age": 46,
+    "nationality": "British",
+    "hobbies": [
+      "Scuba Diving",
+      "Hiking"
+    ],
+    "total_awards": 6,
+    "total_films": 60
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Bale_221&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Bale",
+    "age": 61,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Surfing",
+      "Golf"
+    ],
+    "total_awards": 1,
+    "total_films": 9
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kriti_Sethupathi_222&backgroundColor=transparent",
+    "first_name": "Kriti",
+    "last_name": "Sethupathi",
+    "age": 26,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf"
+    ],
+    "total_awards": 39,
+    "total_films": 181
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Katrina_Sharma_223&backgroundColor=transparent",
+    "first_name": "Katrina",
+    "last_name": "Sharma",
+    "age": 60,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking",
+      "Traveling"
+    ],
+    "total_awards": 9,
+    "total_films": 54
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=NTR_Devgn_224&backgroundColor=transparent",
+    "first_name": "NTR",
+    "last_name": "Devgn",
+    "age": 38,
+    "nationality": "Indian",
+    "hobbies": [
+      "Chess",
+      "Cricket"
+    ],
+    "total_awards": 4,
+    "total_films": 212
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Aamir_Singh_225&backgroundColor=transparent",
+    "first_name": "Aamir",
+    "last_name": "Singh",
+    "age": 73,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running",
+      "Blogging"
+    ],
+    "total_awards": 0,
+    "total_films": 22
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Varun_Deverakonda_226&backgroundColor=transparent",
+    "first_name": "Varun",
+    "last_name": "Deverakonda",
+    "age": 73,
+    "nationality": "Indian",
+    "hobbies": [
+      "Chess",
+      "Gardening"
+    ],
+    "total_awards": 7,
+    "total_films": 86
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rashmika_Khan_227&backgroundColor=transparent",
+    "first_name": "Rashmika",
+    "last_name": "Khan",
+    "age": 66,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Surfing"
+    ],
+    "total_awards": 45,
+    "total_films": 237
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Chris_Pitt_228&backgroundColor=transparent",
+    "first_name": "Chris",
+    "last_name": "Pitt",
+    "age": 21,
+    "nationality": "German",
+    "hobbies": [
+      "Environmentalism",
+      "Painting"
+    ],
+    "total_awards": 1,
+    "total_films": 45
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Robert_Downey_229&backgroundColor=transparent",
+    "first_name": "Robert",
+    "last_name": "Downey",
+    "age": 69,
+    "nationality": "Australian",
+    "hobbies": [
+      "Gardening"
+    ],
+    "total_awards": 5,
+    "total_films": 110
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Jason_Cavill_230&backgroundColor=transparent",
+    "first_name": "Jason",
+    "last_name": "Cavill",
+    "age": 78,
+    "nationality": "American",
+    "hobbies": [
+      "Badminton"
+    ],
+    "total_awards": 0,
+    "total_films": 18
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Aamir_Sethupathi_231&backgroundColor=transparent",
+    "first_name": "Aamir",
+    "last_name": "Sethupathi",
+    "age": 48,
+    "nationality": "Indian",
+    "hobbies": [
+      "Martial Arts",
+      "Badminton"
+    ],
+    "total_awards": 0,
+    "total_films": 45
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Cillian_Pitt_232&backgroundColor=transparent",
+    "first_name": "Cillian",
+    "last_name": "Pitt",
+    "age": 48,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Environmentalism",
+      "Scuba Diving",
+      "Running"
+    ],
+    "total_awards": 2,
+    "total_films": 13
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vikram_Khan_233&backgroundColor=transparent",
+    "first_name": "Vikram",
+    "last_name": "Khan",
+    "age": 57,
+    "nationality": "Indian",
+    "hobbies": [
+      "Surfing"
+    ],
+    "total_awards": 7,
+    "total_films": 116
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Jackman_234&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Jackman",
+    "age": 79,
+    "nationality": "American",
+    "hobbies": [
+      "Reading",
+      "Chess",
+      "Art Collecting"
+    ],
+    "total_awards": 10,
+    "total_films": 69
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sai_Raju_235&backgroundColor=transparent",
+    "first_name": "Sai",
+    "last_name": "Raju",
+    "age": 34,
+    "nationality": "Indian",
+    "hobbies": [
+      "Tennis",
+      "Gadget Collecting"
+    ],
+    "total_awards": 16,
+    "total_films": 169
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Deepika_Faasil_236&backgroundColor=transparent",
+    "first_name": "Deepika",
+    "last_name": "Faasil",
+    "age": 36,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening",
+      "Classical Music"
+    ],
+    "total_awards": 45,
+    "total_films": 207
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_DiCaprio_237&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "DiCaprio",
+    "age": 73,
+    "nationality": "Australian",
+    "hobbies": [
+      "Traveling",
+      "Martial Arts",
+      "Yoga"
+    ],
+    "total_awards": 11,
+    "total_films": 83
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Emma_Jackman_238&backgroundColor=transparent",
+    "first_name": "Emma",
+    "last_name": "Jackman",
+    "age": 28,
+    "nationality": "Irish",
+    "hobbies": [
+      "Astronomy",
+      "Playing Guitar"
+    ],
+    "total_awards": 3,
+    "total_films": 103
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mohanlal_Roshan_239&backgroundColor=transparent",
+    "first_name": "Mohanlal",
+    "last_name": "Roshan",
+    "age": 25,
+    "nationality": "Indian",
+    "hobbies": [
+      "Badminton"
+    ],
+    "total_awards": 17,
+    "total_films": 121
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Anushka_Hegde_240&backgroundColor=transparent",
+    "first_name": "Anushka",
+    "last_name": "Hegde",
+    "age": 51,
+    "nationality": "Indian",
+    "hobbies": [
+      "Classical Music",
+      "Tennis",
+      "Cricket"
+    ],
+    "total_awards": 10,
+    "total_films": 75
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samuel_Murphy_241&backgroundColor=transparent",
+    "first_name": "Samuel",
+    "last_name": "Murphy",
+    "age": 27,
+    "nationality": "British",
+    "hobbies": [
+      "Writing Poetry",
+      "Astronomy",
+      "Photography"
+    ],
+    "total_awards": 6,
+    "total_films": 67
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Alia_Sanon_242&backgroundColor=transparent",
+    "first_name": "Alia",
+    "last_name": "Sanon",
+    "age": 66,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf",
+      "Dancing",
+      "Video Games"
+    ],
+    "total_awards": 16,
+    "total_films": 117
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Christian_Butler_243&backgroundColor=transparent",
+    "first_name": "Christian",
+    "last_name": "Butler",
+    "age": 44,
+    "nationality": "Australian",
+    "hobbies": [
+      "Gadget Collecting",
+      "Cooking"
+    ],
+    "total_awards": 0,
+    "total_films": 7
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Zendaya_Pitt_244&backgroundColor=transparent",
+    "first_name": "Zendaya",
+    "last_name": "Pitt",
+    "age": 49,
+    "nationality": "German",
+    "hobbies": [
+      "Playing Guitar"
+    ],
+    "total_awards": 2,
+    "total_films": 30
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Nayanthara_Patel_245&backgroundColor=transparent",
+    "first_name": "Nayanthara",
+    "last_name": "Patel",
+    "age": 33,
+    "nationality": "Indian",
+    "hobbies": [
+      "Knitting",
+      "Astronomy"
+    ],
+    "total_awards": 2,
+    "total_films": 110
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Pedro_Pitt_246&backgroundColor=transparent",
+    "first_name": "Pedro",
+    "last_name": "Pitt",
+    "age": 60,
+    "nationality": "French",
+    "hobbies": [
+      "Yoga"
+    ],
+    "total_awards": 8,
+    "total_films": 87
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vikram_Salmaan_247&backgroundColor=transparent",
+    "first_name": "Vikram",
+    "last_name": "Salmaan",
+    "age": 42,
+    "nationality": "Indian",
+    "hobbies": [
+      "Classical Music",
+      "Gardening"
+    ],
+    "total_awards": 17,
+    "total_films": 92
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Robert_Smith_248&backgroundColor=transparent",
+    "first_name": "Robert",
+    "last_name": "Smith",
+    "age": 61,
+    "nationality": "British",
+    "hobbies": [
+      "Yoga",
+      "Tennis",
+      "Reading"
+    ],
+    "total_awards": 0,
+    "total_films": 22
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samuel_DiCaprio_249&backgroundColor=transparent",
+    "first_name": "Samuel",
+    "last_name": "DiCaprio",
+    "age": 62,
+    "nationality": "German",
+    "hobbies": [
+      "Classical Music"
+    ],
+    "total_awards": 19,
+    "total_films": 78
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Chalamet_250&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Chalamet",
+    "age": 80,
+    "nationality": "German",
+    "hobbies": [
+      "Knitting",
+      "Skiing"
+    ],
+    "total_awards": 5,
+    "total_films": 111
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Lawrence_251&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Lawrence",
+    "age": 61,
+    "nationality": "Irish",
+    "hobbies": [
+      "Reading"
+    ],
+    "total_awards": 19,
+    "total_films": 87
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kajal_Bhatt_252&backgroundColor=transparent",
+    "first_name": "Kajal",
+    "last_name": "Bhatt",
+    "age": 53,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Hiking",
+      "Dancing"
+    ],
+    "total_awards": 34,
+    "total_films": 204
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Robert_Coleman_253&backgroundColor=transparent",
+    "first_name": "Robert",
+    "last_name": "Coleman",
+    "age": 55,
+    "nationality": "Australian",
+    "hobbies": [
+      "Classical Music"
+    ],
+    "total_awards": 3,
+    "total_films": 30
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keerthy_Sanon_254&backgroundColor=transparent",
+    "first_name": "Keerthy",
+    "last_name": "Sanon",
+    "age": 53,
+    "nationality": "Indian",
+    "hobbies": [
+      "Traveling"
+    ],
+    "total_awards": 21,
+    "total_films": 91
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kamal_Padukone_255&backgroundColor=transparent",
+    "first_name": "Kamal",
+    "last_name": "Padukone",
+    "age": 40,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga"
+    ],
+    "total_awards": 20,
+    "total_films": 107
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Idris_Damon_256&backgroundColor=transparent",
+    "first_name": "Idris",
+    "last_name": "Damon",
+    "age": 29,
+    "nationality": "German",
+    "hobbies": [
+      "Blogging"
+    ],
+    "total_awards": 4,
+    "total_films": 36
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Aamir_Advani_257&backgroundColor=transparent",
+    "first_name": "Aamir",
+    "last_name": "Advani",
+    "age": 31,
+    "nationality": "Indian",
+    "hobbies": [
+      "Scuba Diving",
+      "Painting"
+    ],
+    "total_awards": 1,
+    "total_films": 140
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=NTR_Haasan_258&backgroundColor=transparent",
+    "first_name": "NTR",
+    "last_name": "Haasan",
+    "age": 38,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga"
+    ],
+    "total_awards": 7,
+    "total_films": 51
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sara_Sethupathi_259&backgroundColor=transparent",
+    "first_name": "Sara",
+    "last_name": "Sethupathi",
+    "age": 33,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Dancing",
+      "Traveling"
+    ],
+    "total_awards": 36,
+    "total_films": 193
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Trisha_Kapoor_260&backgroundColor=transparent",
+    "first_name": "Trisha",
+    "last_name": "Kapoor",
+    "age": 52,
+    "nationality": "Indian",
+    "hobbies": [
+      "Scuba Diving",
+      "Reading",
+      "Yoga"
+    ],
+    "total_awards": 39,
+    "total_films": 141
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Damon_261&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Damon",
+    "age": 30,
+    "nationality": "British",
+    "hobbies": [
+      "Running"
+    ],
+    "total_awards": 16,
+    "total_films": 60
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ryan_Butler_262&backgroundColor=transparent",
+    "first_name": "Ryan",
+    "last_name": "Butler",
+    "age": 72,
+    "nationality": "Australian",
+    "hobbies": [
+      "Gadget Collecting",
+      "Painting"
+    ],
+    "total_awards": 8,
+    "total_films": 54
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Evans_263&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Evans",
+    "age": 77,
+    "nationality": "German",
+    "hobbies": [
+      "Astronomy"
+    ],
+    "total_awards": 1,
+    "total_films": 58
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Jason_Coleman_264&backgroundColor=transparent",
+    "first_name": "Jason",
+    "last_name": "Coleman",
+    "age": 44,
+    "nationality": "French",
+    "hobbies": [
+      "Cooking",
+      "Cricket",
+      "Traveling"
+    ],
+    "total_awards": 6,
+    "total_films": 104
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Brad_Pugh_265&backgroundColor=transparent",
+    "first_name": "Brad",
+    "last_name": "Pugh",
+    "age": 22,
+    "nationality": "British",
+    "hobbies": [
+      "Reading",
+      "Chess",
+      "Astronomy"
+    ],
+    "total_awards": 3,
+    "total_films": 25
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Yash_Sethupathi_266&backgroundColor=transparent",
+    "first_name": "Yash",
+    "last_name": "Sethupathi",
+    "age": 60,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry",
+      "Cooking"
+    ],
+    "total_awards": 26,
+    "total_films": 95
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Amitabh_Roshan_267&backgroundColor=transparent",
+    "first_name": "Amitabh",
+    "last_name": "Roshan",
+    "age": 61,
+    "nationality": "Indian",
+    "hobbies": [
+      "Blogging",
+      "Art Collecting",
+      "Golf"
+    ],
+    "total_awards": 5,
+    "total_films": 45
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Emma_Evans_268&backgroundColor=transparent",
+    "first_name": "Emma",
+    "last_name": "Evans",
+    "age": 77,
+    "nationality": "American",
+    "hobbies": [
+      "Environmentalism",
+      "Badminton"
+    ],
+    "total_awards": 11,
+    "total_films": 102
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Zendaya_Robbie_269&backgroundColor=transparent",
+    "first_name": "Zendaya",
+    "last_name": "Robbie",
+    "age": 41,
+    "nationality": "Irish",
+    "hobbies": [
+      "Painting"
+    ],
+    "total_awards": 1,
+    "total_films": 23
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Jennifer_Murphy_270&backgroundColor=transparent",
+    "first_name": "Jennifer",
+    "last_name": "Murphy",
+    "age": 68,
+    "nationality": "German",
+    "hobbies": [
+      "Blogging",
+      "Scuba Diving",
+      "Dancing"
+    ],
+    "total_awards": 4,
+    "total_films": 46
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Charlize_Gosling_271&backgroundColor=transparent",
+    "first_name": "Charlize",
+    "last_name": "Gosling",
+    "age": 53,
+    "nationality": "Australian",
+    "hobbies": [
+      "Playing Guitar"
+    ],
+    "total_awards": 1,
+    "total_films": 56
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Anushka_Salmaan_272&backgroundColor=transparent",
+    "first_name": "Anushka",
+    "last_name": "Salmaan",
+    "age": 43,
+    "nationality": "Indian",
+    "hobbies": [
+      "Blogging",
+      "Gadget Collecting"
+    ],
+    "total_awards": 27,
+    "total_films": 109
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sai_Pillai_273&backgroundColor=transparent",
+    "first_name": "Sai",
+    "last_name": "Pillai",
+    "age": 34,
+    "nationality": "Indian",
+    "hobbies": [
+      "Surfing"
+    ],
+    "total_awards": 46,
+    "total_films": 241
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dhanush_Devgn_274&backgroundColor=transparent",
+    "first_name": "Dhanush",
+    "last_name": "Devgn",
+    "age": 75,
+    "nationality": "Indian",
+    "hobbies": [
+      "Reading",
+      "Painting"
+    ],
+    "total_awards": 10,
+    "total_films": 87
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rashmika_Kumar_275&backgroundColor=transparent",
+    "first_name": "Rashmika",
+    "last_name": "Kumar",
+    "age": 71,
+    "nationality": "Indian",
+    "hobbies": [
+      "Badminton",
+      "Astronomy",
+      "Hiking"
+    ],
+    "total_awards": 10,
+    "total_films": 44
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hugh_Washington_276&backgroundColor=transparent",
+    "first_name": "Hugh",
+    "last_name": "Washington",
+    "age": 27,
+    "nationality": "German",
+    "hobbies": [
+      "Scuba Diving",
+      "Cricket"
+    ],
+    "total_awards": 20,
+    "total_films": 116
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Coleman_277&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Coleman",
+    "age": 75,
+    "nationality": "German",
+    "hobbies": [
+      "Martial Arts"
+    ],
+    "total_awards": 11,
+    "total_films": 44
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ram_Faasil_278&backgroundColor=transparent",
+    "first_name": "Ram",
+    "last_name": "Faasil",
+    "age": 30,
+    "nationality": "Indian",
+    "hobbies": [
+      "Reading",
+      "Tennis",
+      "Traveling"
+    ],
+    "total_awards": 25,
+    "total_films": 133
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Reeves_279&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Reeves",
+    "age": 56,
+    "nationality": "French",
+    "hobbies": [
+      "Gadget Collecting"
+    ],
+    "total_awards": 21,
+    "total_films": 84
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Smith_280&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Smith",
+    "age": 73,
+    "nationality": "Australian",
+    "hobbies": [
+      "Gadget Collecting",
+      "Golf"
+    ],
+    "total_awards": 3,
+    "total_films": 107
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Natalie_Jackman_281&backgroundColor=transparent",
+    "first_name": "Natalie",
+    "last_name": "Jackman",
+    "age": 62,
+    "nationality": "British",
+    "hobbies": [
+      "Cricket",
+      "Astronomy"
+    ],
+    "total_awards": 8,
+    "total_films": 82
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Holland_282&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Holland",
+    "age": 32,
+    "nationality": "French",
+    "hobbies": [
+      "Cooking"
+    ],
+    "total_awards": 1,
+    "total_films": 53
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mammootty_Joshi_283&backgroundColor=transparent",
+    "first_name": "Mammootty",
+    "last_name": "Joshi",
+    "age": 24,
+    "nationality": "Indian",
+    "hobbies": [
+      "Environmentalism",
+      "Playing Guitar"
+    ],
+    "total_awards": 8,
+    "total_films": 53
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Andrew_Cumberbatch_284&backgroundColor=transparent",
+    "first_name": "Andrew",
+    "last_name": "Cumberbatch",
+    "age": 43,
+    "nationality": "Australian",
+    "hobbies": [
+      "Playing Guitar"
+    ],
+    "total_awards": 4,
+    "total_films": 26
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Theron_285&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Theron",
+    "age": 61,
+    "nationality": "Australian",
+    "hobbies": [
+      "Classical Music",
+      "Cricket",
+      "Chess"
+    ],
+    "total_awards": 3,
+    "total_films": 45
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samantha_Padukone_286&backgroundColor=transparent",
+    "first_name": "Samantha",
+    "last_name": "Padukone",
+    "age": 44,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking",
+      "Chess",
+      "Classical Music"
+    ],
+    "total_awards": 34,
+    "total_films": 204
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kajal_Mehta_287&backgroundColor=transparent",
+    "first_name": "Kajal",
+    "last_name": "Mehta",
+    "age": 66,
+    "nationality": "Indian",
+    "hobbies": [
+      "Martial Arts",
+      "Astronomy",
+      "Dancing"
+    ],
+    "total_awards": 2,
+    "total_films": 19
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Brad_Robbie_288&backgroundColor=transparent",
+    "first_name": "Brad",
+    "last_name": "Robbie",
+    "age": 35,
+    "nationality": "German",
+    "hobbies": [
+      "Painting",
+      "Running",
+      "Golf"
+    ],
+    "total_awards": 9,
+    "total_films": 74
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ryan_Johnson_289&backgroundColor=transparent",
+    "first_name": "Ryan",
+    "last_name": "Johnson",
+    "age": 39,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Reading"
+    ],
+    "total_awards": 27,
+    "total_films": 108
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Trisha_Reddy_290&backgroundColor=transparent",
+    "first_name": "Trisha",
+    "last_name": "Reddy",
+    "age": 38,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf"
+    ],
+    "total_awards": 37,
+    "total_films": 229
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Aamir_Sharma_291&backgroundColor=transparent",
+    "first_name": "Aamir",
+    "last_name": "Sharma",
+    "age": 53,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Martial Arts"
+    ],
+    "total_awards": 3,
+    "total_films": 11
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vijay_Mehta_292&backgroundColor=transparent",
+    "first_name": "Vijay",
+    "last_name": "Mehta",
+    "age": 24,
+    "nationality": "Indian",
+    "hobbies": [
+      "Hiking"
+    ],
+    "total_awards": 32,
+    "total_films": 162
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Janvhi_Sanon_293&backgroundColor=transparent",
+    "first_name": "Janvhi",
+    "last_name": "Sanon",
+    "age": 31,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry"
+    ],
+    "total_awards": 5,
+    "total_films": 248
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Henry_Coleman_294&backgroundColor=transparent",
+    "first_name": "Henry",
+    "last_name": "Coleman",
+    "age": 31,
+    "nationality": "Irish",
+    "hobbies": [
+      "Golf",
+      "Astronomy",
+      "Knitting"
+    ],
+    "total_awards": 18,
+    "total_films": 62
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Robbie_295&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Robbie",
+    "age": 53,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Reading",
+      "Tennis",
+      "Writing Poetry"
+    ],
+    "total_awards": 19,
+    "total_films": 69
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Aamir_Bhatt_296&backgroundColor=transparent",
+    "first_name": "Aamir",
+    "last_name": "Bhatt",
+    "age": 46,
+    "nationality": "Indian",
+    "hobbies": [
+      "Tennis",
+      "Environmentalism"
+    ],
+    "total_awards": 18,
+    "total_films": 89
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ryan_Garfield_297&backgroundColor=transparent",
+    "first_name": "Ryan",
+    "last_name": "Garfield",
+    "age": 61,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Surfing"
+    ],
+    "total_awards": 6,
+    "total_films": 36
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Matt_Murphy_298&backgroundColor=transparent",
+    "first_name": "Matt",
+    "last_name": "Murphy",
+    "age": 55,
+    "nationality": "Irish",
+    "hobbies": [
+      "Martial Arts"
+    ],
+    "total_awards": 12,
+    "total_films": 78
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Scarlett_Affleck_299&backgroundColor=transparent",
+    "first_name": "Scarlett",
+    "last_name": "Affleck",
+    "age": 38,
+    "nationality": "Australian",
+    "hobbies": [
+      "Astronomy",
+      "Chess"
+    ],
+    "total_awards": 4,
+    "total_films": 94
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Fahadh_Advani_300&backgroundColor=transparent",
+    "first_name": "Fahadh",
+    "last_name": "Advani",
+    "age": 49,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking",
+      "Golf"
+    ],
+    "total_awards": 3,
+    "total_films": 31
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Andrew_Evans_301&backgroundColor=transparent",
+    "first_name": "Andrew",
+    "last_name": "Evans",
+    "age": 56,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Martial Arts",
+      "Badminton",
+      "Environmentalism"
+    ],
+    "total_awards": 10,
+    "total_films": 63
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Katrina_Sethupathi_302&backgroundColor=transparent",
+    "first_name": "Katrina",
+    "last_name": "Sethupathi",
+    "age": 25,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga",
+      "Martial Arts"
+    ],
+    "total_awards": 20,
+    "total_films": 173
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Affleck_303&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Affleck",
+    "age": 34,
+    "nationality": "Australian",
+    "hobbies": [
+      "Dancing",
+      "Blogging",
+      "Chess"
+    ],
+    "total_awards": 17,
+    "total_films": 63
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vikram_Rama Rao_304&backgroundColor=transparent",
+    "first_name": "Vikram",
+    "last_name": "Rama Rao",
+    "age": 30,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking",
+      "Blogging",
+      "Playing Guitar"
+    ],
+    "total_awards": 10,
+    "total_films": 52
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Cruise_305&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Cruise",
+    "age": 33,
+    "nationality": "German",
+    "hobbies": [
+      "Writing Poetry"
+    ],
+    "total_awards": 1,
+    "total_films": 43
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Will_Depp_306&backgroundColor=transparent",
+    "first_name": "Will",
+    "last_name": "Depp",
+    "age": 30,
+    "nationality": "Australian",
+    "hobbies": [
+      "Gardening",
+      "Scuba Diving"
+    ],
+    "total_awards": 6,
+    "total_films": 72
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Elba_307&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Elba",
+    "age": 34,
+    "nationality": "German",
+    "hobbies": [
+      "Chess",
+      "Surfing",
+      "Cricket"
+    ],
+    "total_awards": 1,
+    "total_films": 13
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Henry_Bale_308&backgroundColor=transparent",
+    "first_name": "Henry",
+    "last_name": "Bale",
+    "age": 53,
+    "nationality": "Irish",
+    "hobbies": [
+      "Astronomy",
+      "Reading"
+    ],
+    "total_awards": 6,
+    "total_films": 38
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Cillian_Washington_309&backgroundColor=transparent",
+    "first_name": "Cillian",
+    "last_name": "Washington",
+    "age": 74,
+    "nationality": "French",
+    "hobbies": [
+      "Knitting",
+      "Painting",
+      "Badminton"
+    ],
+    "total_awards": 1,
+    "total_films": 15
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Angelina_Stone_310&backgroundColor=transparent",
+    "first_name": "Angelina",
+    "last_name": "Stone",
+    "age": 40,
+    "nationality": "American",
+    "hobbies": [
+      "Golf"
+    ],
+    "total_awards": 0,
+    "total_films": 73
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ram_Nair_311&backgroundColor=transparent",
+    "first_name": "Ram",
+    "last_name": "Nair",
+    "age": 25,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening",
+      "Astronomy"
+    ],
+    "total_awards": 54,
+    "total_films": 243
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hugh_Freeman_312&backgroundColor=transparent",
+    "first_name": "Hugh",
+    "last_name": "Freeman",
+    "age": 51,
+    "nationality": "German",
+    "hobbies": [
+      "Hiking"
+    ],
+    "total_awards": 1,
+    "total_films": 26
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Angelina_Gosling_313&backgroundColor=transparent",
+    "first_name": "Angelina",
+    "last_name": "Gosling",
+    "age": 30,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Surfing",
+      "Tennis"
+    ],
+    "total_awards": 0,
+    "total_films": 90
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Timothee_Cumberbatch_314&backgroundColor=transparent",
+    "first_name": "Timothee",
+    "last_name": "Cumberbatch",
+    "age": 54,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Video Games",
+      "Chess"
+    ],
+    "total_awards": 0,
+    "total_films": 12
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vikram_Prabhu_315&backgroundColor=transparent",
+    "first_name": "Vikram",
+    "last_name": "Prabhu",
+    "age": 57,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running",
+      "Gadget Collecting"
+    ],
+    "total_awards": 7,
+    "total_films": 31
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Fahadh_Joshi_316&backgroundColor=transparent",
+    "first_name": "Fahadh",
+    "last_name": "Joshi",
+    "age": 64,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Playing Guitar",
+      "Skiing"
+    ],
+    "total_awards": 5,
+    "total_films": 17
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Anushka_Kaif_317&backgroundColor=transparent",
+    "first_name": "Anushka",
+    "last_name": "Kaif",
+    "age": 54,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf",
+      "Chess",
+      "Knitting"
+    ],
+    "total_awards": 3,
+    "total_films": 248
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kamal_Deverakonda_318&backgroundColor=transparent",
+    "first_name": "Kamal",
+    "last_name": "Deverakonda",
+    "age": 48,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gadget Collecting",
+      "Writing Poetry"
+    ],
+    "total_awards": 3,
+    "total_films": 153
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Natalie_Pugh_319&backgroundColor=transparent",
+    "first_name": "Natalie",
+    "last_name": "Pugh",
+    "age": 37,
+    "nationality": "French",
+    "hobbies": [
+      "Traveling",
+      "Scuba Diving"
+    ],
+    "total_awards": 3,
+    "total_films": 14
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Brad_Jolie_320&backgroundColor=transparent",
+    "first_name": "Brad",
+    "last_name": "Jolie",
+    "age": 52,
+    "nationality": "Irish",
+    "hobbies": [
+      "Chess",
+      "Playing Guitar",
+      "Cricket"
+    ],
+    "total_awards": 5,
+    "total_films": 92
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Robbie_321&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Robbie",
+    "age": 21,
+    "nationality": "Australian",
+    "hobbies": [
+      "Gardening",
+      "Environmentalism"
+    ],
+    "total_awards": 2,
+    "total_films": 26
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Cruise_322&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Cruise",
+    "age": 47,
+    "nationality": "German",
+    "hobbies": [
+      "Painting",
+      "Tennis"
+    ],
+    "total_awards": 5,
+    "total_films": 19
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Gal_Pascal_323&backgroundColor=transparent",
+    "first_name": "Gal",
+    "last_name": "Pascal",
+    "age": 69,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Blogging"
+    ],
+    "total_awards": 8,
+    "total_films": 119
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Cumberbatch_324&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Cumberbatch",
+    "age": 25,
+    "nationality": "American",
+    "hobbies": [
+      "Playing Guitar",
+      "Running",
+      "Art Collecting"
+    ],
+    "total_awards": 4,
+    "total_films": 40
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Coleman_325&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Coleman",
+    "age": 73,
+    "nationality": "French",
+    "hobbies": [
+      "Playing Guitar",
+      "Art Collecting"
+    ],
+    "total_awards": 6,
+    "total_films": 71
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rajinikanth_Haasan_326&backgroundColor=transparent",
+    "first_name": "Rajinikanth",
+    "last_name": "Haasan",
+    "age": 45,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Gardening",
+      "Chess"
+    ],
+    "total_awards": 6,
+    "total_films": 199
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kriti_Prabhu_327&backgroundColor=transparent",
+    "first_name": "Kriti",
+    "last_name": "Prabhu",
+    "age": 71,
+    "nationality": "Indian",
+    "hobbies": [
+      "Playing Guitar",
+      "Gadget Collecting",
+      "Skiing"
+    ],
+    "total_awards": 19,
+    "total_films": 90
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Pitt_328&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Pitt",
+    "age": 35,
+    "nationality": "French",
+    "hobbies": [
+      "Environmentalism",
+      "Writing Poetry"
+    ],
+    "total_awards": 1,
+    "total_films": 27
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Margot_Washington_329&backgroundColor=transparent",
+    "first_name": "Margot",
+    "last_name": "Washington",
+    "age": 37,
+    "nationality": "Irish",
+    "hobbies": [
+      "Skiing",
+      "Martial Arts",
+      "Art Collecting"
+    ],
+    "total_awards": 6,
+    "total_films": 62
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Johnny_DiCaprio_330&backgroundColor=transparent",
+    "first_name": "Johnny",
+    "last_name": "DiCaprio",
+    "age": 62,
+    "nationality": "Australian",
+    "hobbies": [
+      "Cricket",
+      "Painting",
+      "Classical Music"
+    ],
+    "total_awards": 7,
+    "total_films": 109
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Suriya_Mehta_331&backgroundColor=transparent",
+    "first_name": "Suriya",
+    "last_name": "Mehta",
+    "age": 70,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry",
+      "Hiking"
+    ],
+    "total_awards": 38,
+    "total_films": 238
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Zendaya_Stone_332&backgroundColor=transparent",
+    "first_name": "Zendaya",
+    "last_name": "Stone",
+    "age": 35,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Video Games",
+      "Golf"
+    ],
+    "total_awards": 6,
+    "total_films": 68
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keanu_Downey_333&backgroundColor=transparent",
+    "first_name": "Keanu",
+    "last_name": "Downey",
+    "age": 45,
+    "nationality": "French",
+    "hobbies": [
+      "Video Games"
+    ],
+    "total_awards": 3,
+    "total_films": 32
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rajinikanth_Devgn_334&backgroundColor=transparent",
+    "first_name": "Rajinikanth",
+    "last_name": "Devgn",
+    "age": 58,
+    "nationality": "Indian",
+    "hobbies": [
+      "Video Games",
+      "Knitting",
+      "Blogging"
+    ],
+    "total_awards": 2,
+    "total_films": 85
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Alia_Kumar_335&backgroundColor=transparent",
+    "first_name": "Alia",
+    "last_name": "Kumar",
+    "age": 39,
+    "nationality": "Indian",
+    "hobbies": [
+      "Blogging",
+      "Video Games",
+      "Traveling"
+    ],
+    "total_awards": 42,
+    "total_films": 233
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Brad_Pascal_336&backgroundColor=transparent",
+    "first_name": "Brad",
+    "last_name": "Pascal",
+    "age": 71,
+    "nationality": "Australian",
+    "hobbies": [
+      "Running",
+      "Surfing",
+      "Dancing"
+    ],
+    "total_awards": 1,
+    "total_films": 7
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keerthy_Kaif_337&backgroundColor=transparent",
+    "first_name": "Keerthy",
+    "last_name": "Kaif",
+    "age": 68,
+    "nationality": "Indian",
+    "hobbies": [
+      "Traveling",
+      "Tennis",
+      "Environmentalism"
+    ],
+    "total_awards": 36,
+    "total_films": 127
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Christian_Affleck_338&backgroundColor=transparent",
+    "first_name": "Christian",
+    "last_name": "Affleck",
+    "age": 74,
+    "nationality": "British",
+    "hobbies": [
+      "Photography",
+      "Cooking"
+    ],
+    "total_awards": 7,
+    "total_films": 42
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Margot_Pitt_339&backgroundColor=transparent",
+    "first_name": "Margot",
+    "last_name": "Pitt",
+    "age": 33,
+    "nationality": "German",
+    "hobbies": [
+      "Hiking"
+    ],
+    "total_awards": 28,
+    "total_films": 116
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranbir_Chopra_340&backgroundColor=transparent",
+    "first_name": "Ranbir",
+    "last_name": "Chopra",
+    "age": 35,
+    "nationality": "Indian",
+    "hobbies": [
+      "Art Collecting"
+    ],
+    "total_awards": 5,
+    "total_films": 185
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Idris_Cumberbatch_341&backgroundColor=transparent",
+    "first_name": "Idris",
+    "last_name": "Cumberbatch",
+    "age": 40,
+    "nationality": "American",
+    "hobbies": [
+      "Environmentalism"
+    ],
+    "total_awards": 10,
+    "total_films": 36
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Akshay_Roshan_342&backgroundColor=transparent",
+    "first_name": "Akshay",
+    "last_name": "Roshan",
+    "age": 26,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography"
+    ],
+    "total_awards": 16,
+    "total_films": 169
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ben_Garfield_343&backgroundColor=transparent",
+    "first_name": "Ben",
+    "last_name": "Garfield",
+    "age": 49,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Dancing",
+      "Cricket"
+    ],
+    "total_awards": 9,
+    "total_films": 75
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Pugh_344&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Pugh",
+    "age": 61,
+    "nationality": "Irish",
+    "hobbies": [
+      "Astronomy"
+    ],
+    "total_awards": 7,
+    "total_films": 75
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vikram_Singh_345&backgroundColor=transparent",
+    "first_name": "Vikram",
+    "last_name": "Singh",
+    "age": 45,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking",
+      "Surfing"
+    ],
+    "total_awards": 18,
+    "total_films": 77
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Allu_Kaif_346&backgroundColor=transparent",
+    "first_name": "Allu",
+    "last_name": "Kaif",
+    "age": 50,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Reading"
+    ],
+    "total_awards": 28,
+    "total_films": 205
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ryan_Pitt_347&backgroundColor=transparent",
+    "first_name": "Ryan",
+    "last_name": "Pitt",
+    "age": 51,
+    "nationality": "French",
+    "hobbies": [
+      "Knitting",
+      "Environmentalism"
+    ],
+    "total_awards": 5,
+    "total_films": 55
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rashmika_Hegde_348&backgroundColor=transparent",
+    "first_name": "Rashmika",
+    "last_name": "Hegde",
+    "age": 45,
+    "nationality": "Indian",
+    "hobbies": [
+      "Blogging",
+      "Classical Music",
+      "Playing Guitar"
+    ],
+    "total_awards": 6,
+    "total_films": 91
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Varun_Khan_349&backgroundColor=transparent",
+    "first_name": "Varun",
+    "last_name": "Khan",
+    "age": 52,
+    "nationality": "Indian",
+    "hobbies": [
+      "Video Games"
+    ],
+    "total_awards": 4,
+    "total_films": 36
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dulquer_Patel_350&backgroundColor=transparent",
+    "first_name": "Dulquer",
+    "last_name": "Patel",
+    "age": 51,
+    "nationality": "Indian",
+    "hobbies": [
+      "Video Games",
+      "Classical Music",
+      "Golf"
+    ],
+    "total_awards": 36,
+    "total_films": 233
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Idris_Pitt_351&backgroundColor=transparent",
+    "first_name": "Idris",
+    "last_name": "Pitt",
+    "age": 37,
+    "nationality": "German",
+    "hobbies": [
+      "Gadget Collecting"
+    ],
+    "total_awards": 14,
+    "total_films": 86
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keerthy_Reddy_352&backgroundColor=transparent",
+    "first_name": "Keerthy",
+    "last_name": "Reddy",
+    "age": 36,
+    "nationality": "Indian",
+    "hobbies": [
+      "Knitting"
+    ],
+    "total_awards": 68,
+    "total_films": 233
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Jason_Bale_353&backgroundColor=transparent",
+    "first_name": "Jason",
+    "last_name": "Bale",
+    "age": 57,
+    "nationality": "Irish",
+    "hobbies": [
+      "Gardening",
+      "Dancing"
+    ],
+    "total_awards": 29,
+    "total_films": 97
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Varun_Sethupathi_354&backgroundColor=transparent",
+    "first_name": "Varun",
+    "last_name": "Sethupathi",
+    "age": 65,
+    "nationality": "Indian",
+    "hobbies": [
+      "Reading",
+      "Surfing"
+    ],
+    "total_awards": 3,
+    "total_films": 101
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Aamir_Bachchan_355&backgroundColor=transparent",
+    "first_name": "Aamir",
+    "last_name": "Bachchan",
+    "age": 73,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gadget Collecting",
+      "Tennis",
+      "Traveling"
+    ],
+    "total_awards": 28,
+    "total_films": 103
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Salman_Rao_356&backgroundColor=transparent",
+    "first_name": "Salman",
+    "last_name": "Rao",
+    "age": 28,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry",
+      "Playing Guitar"
+    ],
+    "total_awards": 15,
+    "total_films": 66
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Christian_Jolie_357&backgroundColor=transparent",
+    "first_name": "Christian",
+    "last_name": "Jolie",
+    "age": 74,
+    "nationality": "Australian",
+    "hobbies": [
+      "Video Games",
+      "Surfing",
+      "Traveling"
+    ],
+    "total_awards": 0,
+    "total_films": 28
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Depp_358&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Depp",
+    "age": 79,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Writing Poetry",
+      "Knitting"
+    ],
+    "total_awards": 23,
+    "total_films": 77
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Christian_Damon_359&backgroundColor=transparent",
+    "first_name": "Christian",
+    "last_name": "Damon",
+    "age": 47,
+    "nationality": "Irish",
+    "hobbies": [
+      "Playing Guitar",
+      "Gardening",
+      "Surfing"
+    ],
+    "total_awards": 20,
+    "total_films": 70
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Jennifer_Cruise_360&backgroundColor=transparent",
+    "first_name": "Jennifer",
+    "last_name": "Cruise",
+    "age": 58,
+    "nationality": "Irish",
+    "hobbies": [
+      "Surfing"
+    ],
+    "total_awards": 13,
+    "total_films": 102
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sara_Salmaan_361&backgroundColor=transparent",
+    "first_name": "Sara",
+    "last_name": "Salmaan",
+    "age": 34,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting"
+    ],
+    "total_awards": 15,
+    "total_films": 58
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Trisha_Faasil_362&backgroundColor=transparent",
+    "first_name": "Trisha",
+    "last_name": "Faasil",
+    "age": 49,
+    "nationality": "Indian",
+    "hobbies": [
+      "Art Collecting",
+      "Blogging"
+    ],
+    "total_awards": 7,
+    "total_films": 31
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rashmika_Patel_363&backgroundColor=transparent",
+    "first_name": "Rashmika",
+    "last_name": "Patel",
+    "age": 44,
+    "nationality": "Indian",
+    "hobbies": [
+      "Reading",
+      "Gardening",
+      "Skiing"
+    ],
+    "total_awards": 7,
+    "total_films": 25
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Brad_Cruise_364&backgroundColor=transparent",
+    "first_name": "Brad",
+    "last_name": "Cruise",
+    "age": 58,
+    "nationality": "British",
+    "hobbies": [
+      "Painting",
+      "Photography",
+      "Playing Guitar"
+    ],
+    "total_awards": 5,
+    "total_films": 50
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Will_Portman_365&backgroundColor=transparent",
+    "first_name": "Will",
+    "last_name": "Portman",
+    "age": 26,
+    "nationality": "French",
+    "hobbies": [
+      "Gardening",
+      "Dancing"
+    ],
+    "total_awards": 5,
+    "total_films": 78
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hugh_Lawrence_366&backgroundColor=transparent",
+    "first_name": "Hugh",
+    "last_name": "Lawrence",
+    "age": 38,
+    "nationality": "Australian",
+    "hobbies": [
+      "Photography",
+      "Video Games",
+      "Tennis"
+    ],
+    "total_awards": 23,
+    "total_films": 89
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Alia_Charan_367&backgroundColor=transparent",
+    "first_name": "Alia",
+    "last_name": "Charan",
+    "age": 36,
+    "nationality": "Indian",
+    "hobbies": [
+      "Skiing",
+      "Traveling"
+    ],
+    "total_awards": 68,
+    "total_films": 236
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kamal_Sharma_368&backgroundColor=transparent",
+    "first_name": "Kamal",
+    "last_name": "Sharma",
+    "age": 27,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cricket",
+      "Scuba Diving",
+      "Astronomy"
+    ],
+    "total_awards": 13,
+    "total_films": 68
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mammootty_Kaif_369&backgroundColor=transparent",
+    "first_name": "Mammootty",
+    "last_name": "Kaif",
+    "age": 37,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking"
+    ],
+    "total_awards": 8,
+    "total_films": 128
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keerthy_Kumar_370&backgroundColor=transparent",
+    "first_name": "Keerthy",
+    "last_name": "Kumar",
+    "age": 50,
+    "nationality": "Indian",
+    "hobbies": [
+      "Reading",
+      "Hiking"
+    ],
+    "total_awards": 2,
+    "total_films": 52
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Pooja_Sethupathi_371&backgroundColor=transparent",
+    "first_name": "Pooja",
+    "last_name": "Sethupathi",
+    "age": 22,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography"
+    ],
+    "total_awards": 24,
+    "total_films": 101
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rajinikanth_Nair_372&backgroundColor=transparent",
+    "first_name": "Rajinikanth",
+    "last_name": "Nair",
+    "age": 38,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Writing Poetry"
+    ],
+    "total_awards": 15,
+    "total_films": 197
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Timothee_Butler_373&backgroundColor=transparent",
+    "first_name": "Timothee",
+    "last_name": "Butler",
+    "age": 47,
+    "nationality": "American",
+    "hobbies": [
+      "Gadget Collecting",
+      "Environmentalism",
+      "Golf"
+    ],
+    "total_awards": 3,
+    "total_films": 42
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ram_Sharma_374&backgroundColor=transparent",
+    "first_name": "Ram",
+    "last_name": "Sharma",
+    "age": 47,
+    "nationality": "Indian",
+    "hobbies": [
+      "Martial Arts",
+      "Skiing",
+      "Video Games"
+    ],
+    "total_awards": 9,
+    "total_films": 55
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Zendaya_Holland_375&backgroundColor=transparent",
+    "first_name": "Zendaya",
+    "last_name": "Holland",
+    "age": 49,
+    "nationality": "Australian",
+    "hobbies": [
+      "Environmentalism",
+      "Chess",
+      "Video Games"
+    ],
+    "total_awards": 9,
+    "total_films": 54
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Reeves_376&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Reeves",
+    "age": 77,
+    "nationality": "German",
+    "hobbies": [
+      "Gardening"
+    ],
+    "total_awards": 8,
+    "total_films": 41
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vikram_Padukone_377&backgroundColor=transparent",
+    "first_name": "Vikram",
+    "last_name": "Padukone",
+    "age": 59,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Environmentalism",
+      "Photography"
+    ],
+    "total_awards": 20,
+    "total_films": 247
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Will_Cruise_378&backgroundColor=transparent",
+    "first_name": "Will",
+    "last_name": "Cruise",
+    "age": 67,
+    "nationality": "British",
+    "hobbies": [
+      "Skiing",
+      "Scuba Diving",
+      "Dancing"
+    ],
+    "total_awards": 19,
+    "total_films": 71
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Matt_Portman_379&backgroundColor=transparent",
+    "first_name": "Matt",
+    "last_name": "Portman",
+    "age": 56,
+    "nationality": "British",
+    "hobbies": [
+      "Environmentalism",
+      "Martial Arts"
+    ],
+    "total_awards": 15,
+    "total_films": 104
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vijay_Khan_380&backgroundColor=transparent",
+    "first_name": "Vijay",
+    "last_name": "Khan",
+    "age": 60,
+    "nationality": "Indian",
+    "hobbies": [
+      "Environmentalism",
+      "Playing Guitar"
+    ],
+    "total_awards": 0,
+    "total_films": 165
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Robert_Chalamet_381&backgroundColor=transparent",
+    "first_name": "Robert",
+    "last_name": "Chalamet",
+    "age": 44,
+    "nationality": "Australian",
+    "hobbies": [
+      "Traveling"
+    ],
+    "total_awards": 9,
+    "total_films": 86
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Coleman_382&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Coleman",
+    "age": 56,
+    "nationality": "American",
+    "hobbies": [
+      "Playing Guitar",
+      "Traveling"
+    ],
+    "total_awards": 5,
+    "total_films": 45
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vijay_Reddy_383&backgroundColor=transparent",
+    "first_name": "Vijay",
+    "last_name": "Reddy",
+    "age": 70,
+    "nationality": "Indian",
+    "hobbies": [
+      "Surfing",
+      "Playing Guitar",
+      "Environmentalism"
+    ],
+    "total_awards": 63,
+    "total_films": 212
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Florence_Pascal_384&backgroundColor=transparent",
+    "first_name": "Florence",
+    "last_name": "Pascal",
+    "age": 30,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Surfing",
+      "Chess",
+      "Tennis"
+    ],
+    "total_awards": 7,
+    "total_films": 26
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Akshay_Bhatt_385&backgroundColor=transparent",
+    "first_name": "Akshay",
+    "last_name": "Bhatt",
+    "age": 62,
+    "nationality": "Indian",
+    "hobbies": [
+      "Classical Music"
+    ],
+    "total_awards": 0,
+    "total_films": 25
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Andrew_Jackson_386&backgroundColor=transparent",
+    "first_name": "Andrew",
+    "last_name": "Jackson",
+    "age": 79,
+    "nationality": "Irish",
+    "hobbies": [
+      "Scuba Diving",
+      "Badminton"
+    ],
+    "total_awards": 11,
+    "total_films": 78
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Timothee_Affleck_387&backgroundColor=transparent",
+    "first_name": "Timothee",
+    "last_name": "Affleck",
+    "age": 38,
+    "nationality": "Irish",
+    "hobbies": [
+      "Photography",
+      "Gardening"
+    ],
+    "total_awards": 16,
+    "total_films": 83
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_DiCaprio_388&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "DiCaprio",
+    "age": 75,
+    "nationality": "American",
+    "hobbies": [
+      "Tennis",
+      "Running"
+    ],
+    "total_awards": 1,
+    "total_films": 22
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Allu_Bachchan_389&backgroundColor=transparent",
+    "first_name": "Allu",
+    "last_name": "Bachchan",
+    "age": 52,
+    "nationality": "Indian",
+    "hobbies": [
+      "Reading",
+      "Traveling"
+    ],
+    "total_awards": 10,
+    "total_films": 75
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Deepika_Sharma_390&backgroundColor=transparent",
+    "first_name": "Deepika",
+    "last_name": "Sharma",
+    "age": 38,
+    "nationality": "Indian",
+    "hobbies": [
+      "Knitting"
+    ],
+    "total_awards": 19,
+    "total_films": 104
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Allu_Deverakonda_391&backgroundColor=transparent",
+    "first_name": "Allu",
+    "last_name": "Deverakonda",
+    "age": 63,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting",
+      "Reading",
+      "Cricket"
+    ],
+    "total_awards": 48,
+    "total_films": 166
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=NTR_Charan_392&backgroundColor=transparent",
+    "first_name": "NTR",
+    "last_name": "Charan",
+    "age": 61,
+    "nationality": "Indian",
+    "hobbies": [
+      "Reading",
+      "Dancing",
+      "Art Collecting"
+    ],
+    "total_awards": 4,
+    "total_films": 134
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranbir_Rama Rao_393&backgroundColor=transparent",
+    "first_name": "Ranbir",
+    "last_name": "Rama Rao",
+    "age": 45,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running",
+      "Cooking",
+      "Classical Music"
+    ],
+    "total_awards": 36,
+    "total_films": 240
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vikram_Reddy_394&backgroundColor=transparent",
+    "first_name": "Vikram",
+    "last_name": "Reddy",
+    "age": 34,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting"
+    ],
+    "total_awards": 12,
+    "total_films": 113
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Amitabh_Joshi_395&backgroundColor=transparent",
+    "first_name": "Amitabh",
+    "last_name": "Joshi",
+    "age": 53,
+    "nationality": "Indian",
+    "hobbies": [
+      "Video Games",
+      "Playing Guitar",
+      "Badminton"
+    ],
+    "total_awards": 24,
+    "total_films": 120
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keanu_Cruise_396&backgroundColor=transparent",
+    "first_name": "Keanu",
+    "last_name": "Cruise",
+    "age": 29,
+    "nationality": "Irish",
+    "hobbies": [
+      "Hiking",
+      "Running"
+    ],
+    "total_awards": 1,
+    "total_films": 33
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Jason_Pugh_397&backgroundColor=transparent",
+    "first_name": "Jason",
+    "last_name": "Pugh",
+    "age": 58,
+    "nationality": "German",
+    "hobbies": [
+      "Running",
+      "Astronomy"
+    ],
+    "total_awards": 23,
+    "total_films": 78
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Timothee_Gadot_398&backgroundColor=transparent",
+    "first_name": "Timothee",
+    "last_name": "Gadot",
+    "age": 25,
+    "nationality": "French",
+    "hobbies": [
+      "Martial Arts",
+      "Scuba Diving"
+    ],
+    "total_awards": 0,
+    "total_films": 116
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ram_Kapoor_399&backgroundColor=transparent",
+    "first_name": "Ram",
+    "last_name": "Kapoor",
+    "age": 45,
+    "nationality": "Indian",
+    "hobbies": [
+      "Photography",
+      "Traveling"
+    ],
+    "total_awards": 43,
+    "total_films": 188
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Nayanthara_Bachchan_400&backgroundColor=transparent",
+    "first_name": "Nayanthara",
+    "last_name": "Bachchan",
+    "age": 63,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cricket",
+      "Scuba Diving"
+    ],
+    "total_awards": 3,
+    "total_films": 107
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Cillian_Holland_401&backgroundColor=transparent",
+    "first_name": "Cillian",
+    "last_name": "Holland",
+    "age": 20,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Golf",
+      "Video Games",
+      "Cooking"
+    ],
+    "total_awards": 29,
+    "total_films": 106
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dhanush_Reddy_402&backgroundColor=transparent",
+    "first_name": "Dhanush",
+    "last_name": "Reddy",
+    "age": 35,
+    "nationality": "Indian",
+    "hobbies": [
+      "Knitting"
+    ],
+    "total_awards": 14,
+    "total_films": 72
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kajal_Faasil_403&backgroundColor=transparent",
+    "first_name": "Kajal",
+    "last_name": "Faasil",
+    "age": 75,
+    "nationality": "Indian",
+    "hobbies": [
+      "Hiking"
+    ],
+    "total_awards": 2,
+    "total_films": 49
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Trisha_Sharma_404&backgroundColor=transparent",
+    "first_name": "Trisha",
+    "last_name": "Sharma",
+    "age": 28,
+    "nationality": "Indian",
+    "hobbies": [
+      "Painting"
+    ],
+    "total_awards": 13,
+    "total_films": 47
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Akshay_Aggarwal_405&backgroundColor=transparent",
+    "first_name": "Akshay",
+    "last_name": "Aggarwal",
+    "age": 42,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga"
+    ],
+    "total_awards": 18,
+    "total_films": 100
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Garfield_406&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Garfield",
+    "age": 39,
+    "nationality": "American",
+    "hobbies": [
+      "Surfing"
+    ],
+    "total_awards": 3,
+    "total_films": 12
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Amitabh_Kaif_407&backgroundColor=transparent",
+    "first_name": "Amitabh",
+    "last_name": "Kaif",
+    "age": 71,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cricket"
+    ],
+    "total_awards": 11,
+    "total_films": 66
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mammootty_Reddy_408&backgroundColor=transparent",
+    "first_name": "Mammootty",
+    "last_name": "Reddy",
+    "age": 74,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening",
+      "Cooking",
+      "Astronomy"
+    ],
+    "total_awards": 1,
+    "total_films": 246
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranveer_Pillai_409&backgroundColor=transparent",
+    "first_name": "Ranveer",
+    "last_name": "Pillai",
+    "age": 33,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening",
+      "Traveling",
+      "Photography"
+    ],
+    "total_awards": 8,
+    "total_films": 45
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Gadot_410&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Gadot",
+    "age": 76,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Playing Guitar",
+      "Knitting",
+      "Photography"
+    ],
+    "total_awards": 26,
+    "total_films": 105
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranbir_Pillai_411&backgroundColor=transparent",
+    "first_name": "Ranbir",
+    "last_name": "Pillai",
+    "age": 67,
+    "nationality": "Indian",
+    "hobbies": [
+      "Chess",
+      "Dancing"
+    ],
+    "total_awards": 56,
+    "total_films": 238
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Angelina_Johansson_412&backgroundColor=transparent",
+    "first_name": "Angelina",
+    "last_name": "Johansson",
+    "age": 33,
+    "nationality": "American",
+    "hobbies": [
+      "Chess"
+    ],
+    "total_awards": 9,
+    "total_films": 32
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Jolie_413&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Jolie",
+    "age": 72,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Writing Poetry"
+    ],
+    "total_awards": 3,
+    "total_films": 12
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Allu_Goud_414&backgroundColor=transparent",
+    "first_name": "Allu",
+    "last_name": "Goud",
+    "age": 38,
+    "nationality": "Indian",
+    "hobbies": [
+      "Playing Guitar",
+      "Hiking"
+    ],
+    "total_awards": 5,
+    "total_films": 31
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Garfield_415&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Garfield",
+    "age": 53,
+    "nationality": "French",
+    "hobbies": [
+      "Hiking",
+      "Playing Guitar",
+      "Art Collecting"
+    ],
+    "total_awards": 1,
+    "total_films": 19
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Amitabh_Bhatt_416&backgroundColor=transparent",
+    "first_name": "Amitabh",
+    "last_name": "Bhatt",
+    "age": 74,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cricket",
+      "Running"
+    ],
+    "total_awards": 12,
+    "total_films": 140
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Cillian_Elba_417&backgroundColor=transparent",
+    "first_name": "Cillian",
+    "last_name": "Elba",
+    "age": 40,
+    "nationality": "French",
+    "hobbies": [
+      "Scuba Diving"
+    ],
+    "total_awards": 0,
+    "total_films": 15
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Stone_418&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Stone",
+    "age": 40,
+    "nationality": "British",
+    "hobbies": [
+      "Reading",
+      "Classical Music",
+      "Playing Guitar"
+    ],
+    "total_awards": 2,
+    "total_films": 33
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Katrina_Babu_419&backgroundColor=transparent",
+    "first_name": "Katrina",
+    "last_name": "Babu",
+    "age": 61,
+    "nationality": "Indian",
+    "hobbies": [
+      "Video Games",
+      "Badminton",
+      "Playing Guitar"
+    ],
+    "total_awards": 11,
+    "total_films": 151
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Nayanthara_Charan_420&backgroundColor=transparent",
+    "first_name": "Nayanthara",
+    "last_name": "Charan",
+    "age": 48,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running"
+    ],
+    "total_awards": 7,
+    "total_films": 26
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Garfield_421&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Garfield",
+    "age": 72,
+    "nationality": "American",
+    "hobbies": [
+      "Gadget Collecting"
+    ],
+    "total_awards": 1,
+    "total_films": 27
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Andrew_Statham_422&backgroundColor=transparent",
+    "first_name": "Andrew",
+    "last_name": "Statham",
+    "age": 69,
+    "nationality": "American",
+    "hobbies": [
+      "Cricket"
+    ],
+    "total_awards": 10,
+    "total_films": 40
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Matt_Affleck_423&backgroundColor=transparent",
+    "first_name": "Matt",
+    "last_name": "Affleck",
+    "age": 58,
+    "nationality": "British",
+    "hobbies": [
+      "Hiking",
+      "Badminton",
+      "Scuba Diving"
+    ],
+    "total_awards": 1,
+    "total_films": 17
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sidhart_Faasil_424&backgroundColor=transparent",
+    "first_name": "Sidhart",
+    "last_name": "Faasil",
+    "age": 48,
+    "nationality": "Indian",
+    "hobbies": [
+      "Classical Music",
+      "Martial Arts",
+      "Cooking"
+    ],
+    "total_awards": 12,
+    "total_films": 86
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Washington_425&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Washington",
+    "age": 58,
+    "nationality": "German",
+    "hobbies": [
+      "Tennis",
+      "Surfing"
+    ],
+    "total_awards": 1,
+    "total_films": 35
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Pitt_426&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Pitt",
+    "age": 50,
+    "nationality": "Australian",
+    "hobbies": [
+      "Astronomy"
+    ],
+    "total_awards": 0,
+    "total_films": 51
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Smith_427&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Smith",
+    "age": 35,
+    "nationality": "British",
+    "hobbies": [
+      "Martial Arts"
+    ],
+    "total_awards": 17,
+    "total_films": 66
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Emma_Statham_428&backgroundColor=transparent",
+    "first_name": "Emma",
+    "last_name": "Statham",
+    "age": 61,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Tennis",
+      "Badminton",
+      "Dancing"
+    ],
+    "total_awards": 4,
+    "total_films": 48
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Pugh_429&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Pugh",
+    "age": 28,
+    "nationality": "American",
+    "hobbies": [
+      "Cooking",
+      "Chess",
+      "Playing Guitar"
+    ],
+    "total_awards": 21,
+    "total_films": 100
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Vijay_Kapoor_430&backgroundColor=transparent",
+    "first_name": "Vijay",
+    "last_name": "Kapoor",
+    "age": 46,
+    "nationality": "Indian",
+    "hobbies": [
+      "Classical Music",
+      "Gardening",
+      "Astronomy"
+    ],
+    "total_awards": 30,
+    "total_films": 208
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Charlize_Cumberbatch_431&backgroundColor=transparent",
+    "first_name": "Charlize",
+    "last_name": "Cumberbatch",
+    "age": 68,
+    "nationality": "Australian",
+    "hobbies": [
+      "Cricket"
+    ],
+    "total_awards": 31,
+    "total_films": 110
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Deepika_Singh_432&backgroundColor=transparent",
+    "first_name": "Deepika",
+    "last_name": "Singh",
+    "age": 62,
+    "nationality": "Indian",
+    "hobbies": [
+      "Skiing"
+    ],
+    "total_awards": 35,
+    "total_films": 133
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Natalie_DiCaprio_433&backgroundColor=transparent",
+    "first_name": "Natalie",
+    "last_name": "DiCaprio",
+    "age": 21,
+    "nationality": "German",
+    "hobbies": [
+      "Photography",
+      "Tennis"
+    ],
+    "total_awards": 23,
+    "total_films": 119
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samantha_Rama Rao_434&backgroundColor=transparent",
+    "first_name": "Samantha",
+    "last_name": "Rama Rao",
+    "age": 24,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga",
+      "Art Collecting",
+      "Environmentalism"
+    ],
+    "total_awards": 32,
+    "total_films": 135
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tamannaah_Padukone_435&backgroundColor=transparent",
+    "first_name": "Tamannaah",
+    "last_name": "Padukone",
+    "age": 41,
+    "nationality": "Indian",
+    "hobbies": [
+      "Hiking",
+      "Painting"
+    ],
+    "total_awards": 9,
+    "total_films": 99
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Austin_Freeman_436&backgroundColor=transparent",
+    "first_name": "Austin",
+    "last_name": "Freeman",
+    "age": 67,
+    "nationality": "British",
+    "hobbies": [
+      "Dancing"
+    ],
+    "total_awards": 8,
+    "total_films": 89
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ryan_Statham_437&backgroundColor=transparent",
+    "first_name": "Ryan",
+    "last_name": "Statham",
+    "age": 20,
+    "nationality": "Australian",
+    "hobbies": [
+      "Cooking",
+      "Running",
+      "Classical Music"
+    ],
+    "total_awards": 1,
+    "total_films": 12
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Angelina_Downey_438&backgroundColor=transparent",
+    "first_name": "Angelina",
+    "last_name": "Downey",
+    "age": 63,
+    "nationality": "German",
+    "hobbies": [
+      "Blogging",
+      "Martial Arts",
+      "Chess"
+    ],
+    "total_awards": 7,
+    "total_films": 83
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dwayne_Affleck_439&backgroundColor=transparent",
+    "first_name": "Dwayne",
+    "last_name": "Affleck",
+    "age": 51,
+    "nationality": "British",
+    "hobbies": [
+      "Photography",
+      "Scuba Diving",
+      "Skiing"
+    ],
+    "total_awards": 7,
+    "total_films": 48
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Jackson_440&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Jackson",
+    "age": 53,
+    "nationality": "Australian",
+    "hobbies": [
+      "Astronomy",
+      "Painting"
+    ],
+    "total_awards": 3,
+    "total_films": 68
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Aamir_Arjun_441&backgroundColor=transparent",
+    "first_name": "Aamir",
+    "last_name": "Arjun",
+    "age": 60,
+    "nationality": "Indian",
+    "hobbies": [
+      "Writing Poetry"
+    ],
+    "total_awards": 20,
+    "total_films": 106
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Depp_442&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Depp",
+    "age": 72,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Art Collecting",
+      "Yoga",
+      "Video Games"
+    ],
+    "total_awards": 6,
+    "total_films": 101
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Washington_443&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Washington",
+    "age": 45,
+    "nationality": "French",
+    "hobbies": [
+      "Blogging",
+      "Martial Arts",
+      "Playing Guitar"
+    ],
+    "total_awards": 13,
+    "total_films": 100
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Christian_Jackman_444&backgroundColor=transparent",
+    "first_name": "Christian",
+    "last_name": "Jackman",
+    "age": 74,
+    "nationality": "Irish",
+    "hobbies": [
+      "Scuba Diving"
+    ],
+    "total_awards": 10,
+    "total_films": 65
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Suriya_Chopra_445&backgroundColor=transparent",
+    "first_name": "Suriya",
+    "last_name": "Chopra",
+    "age": 43,
+    "nationality": "Indian",
+    "hobbies": [
+      "Tennis",
+      "Hiking"
+    ],
+    "total_awards": 3,
+    "total_films": 102
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keanu_Reeves_446&backgroundColor=transparent",
+    "first_name": "Keanu",
+    "last_name": "Reeves",
+    "age": 62,
+    "nationality": "Australian",
+    "hobbies": [
+      "Skiing",
+      "Cricket"
+    ],
+    "total_awards": 7,
+    "total_films": 55
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Dhanush_Sethupathi_447&backgroundColor=transparent",
+    "first_name": "Dhanush",
+    "last_name": "Sethupathi",
+    "age": 43,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running"
+    ],
+    "total_awards": 7,
+    "total_films": 179
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Salman_Prabhu_448&backgroundColor=transparent",
+    "first_name": "Salman",
+    "last_name": "Prabhu",
+    "age": 75,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running",
+      "Badminton"
+    ],
+    "total_awards": 22,
+    "total_films": 245
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kriti_Kaif_449&backgroundColor=transparent",
+    "first_name": "Kriti",
+    "last_name": "Kaif",
+    "age": 74,
+    "nationality": "Indian",
+    "hobbies": [
+      "Traveling",
+      "Painting",
+      "Environmentalism"
+    ],
+    "total_awards": 1,
+    "total_films": 43
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Margot_Smith_450&backgroundColor=transparent",
+    "first_name": "Margot",
+    "last_name": "Smith",
+    "age": 72,
+    "nationality": "American",
+    "hobbies": [
+      "Classical Music",
+      "Surfing"
+    ],
+    "total_awards": 10,
+    "total_films": 62
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Johnny_Garfield_451&backgroundColor=transparent",
+    "first_name": "Johnny",
+    "last_name": "Garfield",
+    "age": 59,
+    "nationality": "Australian",
+    "hobbies": [
+      "Chess",
+      "Dancing"
+    ],
+    "total_awards": 10,
+    "total_films": 72
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Charlize_Johansson_452&backgroundColor=transparent",
+    "first_name": "Charlize",
+    "last_name": "Johansson",
+    "age": 31,
+    "nationality": "British",
+    "hobbies": [
+      "Surfing",
+      "Chess"
+    ],
+    "total_awards": 8,
+    "total_films": 30
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rajinikanth_Advani_453&backgroundColor=transparent",
+    "first_name": "Rajinikanth",
+    "last_name": "Advani",
+    "age": 55,
+    "nationality": "Indian",
+    "hobbies": [
+      "Blogging",
+      "Video Games",
+      "Cooking"
+    ],
+    "total_awards": 12,
+    "total_films": 43
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Hugh_Cumberbatch_454&backgroundColor=transparent",
+    "first_name": "Hugh",
+    "last_name": "Cumberbatch",
+    "age": 24,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Yoga",
+      "Running",
+      "Tennis"
+    ],
+    "total_awards": 22,
+    "total_films": 90
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mohanlal_Pillai_455&backgroundColor=transparent",
+    "first_name": "Mohanlal",
+    "last_name": "Pillai",
+    "age": 32,
+    "nationality": "Indian",
+    "hobbies": [
+      "Martial Arts",
+      "Writing Poetry"
+    ],
+    "total_awards": 28,
+    "total_films": 186
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Matt_Washington_456&backgroundColor=transparent",
+    "first_name": "Matt",
+    "last_name": "Washington",
+    "age": 41,
+    "nationality": "American",
+    "hobbies": [
+      "Scuba Diving",
+      "Blogging",
+      "Environmentalism"
+    ],
+    "total_awards": 5,
+    "total_films": 99
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Katrina_Arjun_457&backgroundColor=transparent",
+    "first_name": "Katrina",
+    "last_name": "Arjun",
+    "age": 50,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gardening",
+      "Yoga"
+    ],
+    "total_awards": 33,
+    "total_films": 224
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ranveer_Menon_458&backgroundColor=transparent",
+    "first_name": "Ranveer",
+    "last_name": "Menon",
+    "age": 47,
+    "nationality": "Indian",
+    "hobbies": [
+      "Running",
+      "Traveling"
+    ],
+    "total_awards": 2,
+    "total_films": 33
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Freeman_459&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Freeman",
+    "age": 68,
+    "nationality": "British",
+    "hobbies": [
+      "Scuba Diving",
+      "Surfing",
+      "Reading"
+    ],
+    "total_awards": 7,
+    "total_films": 27
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Mohanlal_Advani_460&backgroundColor=transparent",
+    "first_name": "Mohanlal",
+    "last_name": "Advani",
+    "age": 66,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf"
+    ],
+    "total_awards": 15,
+    "total_films": 73
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Salman_Kapoor_461&backgroundColor=transparent",
+    "first_name": "Salman",
+    "last_name": "Kapoor",
+    "age": 54,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf",
+      "Playing Guitar",
+      "Painting"
+    ],
+    "total_awards": 48,
+    "total_films": 195
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samuel_Robbie_462&backgroundColor=transparent",
+    "first_name": "Samuel",
+    "last_name": "Robbie",
+    "age": 49,
+    "nationality": "German",
+    "hobbies": [
+      "Hiking",
+      "Running",
+      "Cricket"
+    ],
+    "total_awards": 8,
+    "total_films": 59
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Tom_Pitt_463&backgroundColor=transparent",
+    "first_name": "Tom",
+    "last_name": "Pitt",
+    "age": 30,
+    "nationality": "British",
+    "hobbies": [
+      "Art Collecting",
+      "Cricket",
+      "Tennis"
+    ],
+    "total_awards": 3,
+    "total_films": 76
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Benedict_Johansson_464&backgroundColor=transparent",
+    "first_name": "Benedict",
+    "last_name": "Johansson",
+    "age": 40,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Surfing"
+    ],
+    "total_awards": 1,
+    "total_films": 23
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Zendaya_Chalamet_465&backgroundColor=transparent",
+    "first_name": "Zendaya",
+    "last_name": "Chalamet",
+    "age": 33,
+    "nationality": "French",
+    "hobbies": [
+      "Traveling",
+      "Classical Music",
+      "Surfing"
+    ],
+    "total_awards": 4,
+    "total_films": 36
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Rashmika_Sethupathi_466&backgroundColor=transparent",
+    "first_name": "Rashmika",
+    "last_name": "Sethupathi",
+    "age": 52,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga",
+      "Traveling"
+    ],
+    "total_awards": 22,
+    "total_films": 143
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Amitabh_Mehta_467&backgroundColor=transparent",
+    "first_name": "Amitabh",
+    "last_name": "Mehta",
+    "age": 34,
+    "nationality": "Indian",
+    "hobbies": [
+      "Badminton",
+      "Playing Guitar"
+    ],
+    "total_awards": 55,
+    "total_films": 229
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keerthy_Patel_468&backgroundColor=transparent",
+    "first_name": "Keerthy",
+    "last_name": "Patel",
+    "age": 36,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf"
+    ],
+    "total_awards": 12,
+    "total_films": 104
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Zendaya_Garfield_469&backgroundColor=transparent",
+    "first_name": "Zendaya",
+    "last_name": "Garfield",
+    "age": 23,
+    "nationality": "Canadian",
+    "hobbies": [
+      "Martial Arts"
+    ],
+    "total_awards": 6,
+    "total_films": 24
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ryan_Affleck_470&backgroundColor=transparent",
+    "first_name": "Ryan",
+    "last_name": "Affleck",
+    "age": 54,
+    "nationality": "Australian",
+    "hobbies": [
+      "Knitting",
+      "Martial Arts",
+      "Painting"
+    ],
+    "total_awards": 1,
+    "total_films": 19
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samuel_Butler_471&backgroundColor=transparent",
+    "first_name": "Samuel",
+    "last_name": "Butler",
+    "age": 67,
+    "nationality": "French",
+    "hobbies": [
+      "Blogging",
+      "Classical Music"
+    ],
+    "total_awards": 20,
+    "total_films": 97
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Matt_Coleman_472&backgroundColor=transparent",
+    "first_name": "Matt",
+    "last_name": "Coleman",
+    "age": 75,
+    "nationality": "American",
+    "hobbies": [
+      "Blogging"
+    ],
+    "total_awards": 0,
+    "total_films": 39
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Keerthy_Bachchan_473&backgroundColor=transparent",
+    "first_name": "Keerthy",
+    "last_name": "Bachchan",
+    "age": 53,
+    "nationality": "Indian",
+    "hobbies": [
+      "Environmentalism"
+    ],
+    "total_awards": 47,
+    "total_films": 221
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ajith_Khan_474&backgroundColor=transparent",
+    "first_name": "Ajith",
+    "last_name": "Khan",
+    "age": 53,
+    "nationality": "Indian",
+    "hobbies": [
+      "Badminton"
+    ],
+    "total_awards": 24,
+    "total_films": 199
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Statham_475&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Statham",
+    "age": 60,
+    "nationality": "American",
+    "hobbies": [
+      "Blogging",
+      "Running",
+      "Photography"
+    ],
+    "total_awards": 9,
+    "total_films": 120
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sai_Kaif_476&backgroundColor=transparent",
+    "first_name": "Sai",
+    "last_name": "Kaif",
+    "age": 25,
+    "nationality": "Indian",
+    "hobbies": [
+      "Yoga",
+      "Surfing"
+    ],
+    "total_awards": 5,
+    "total_films": 206
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Yash_Bhatt_477&backgroundColor=transparent",
+    "first_name": "Yash",
+    "last_name": "Bhatt",
+    "age": 30,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gadget Collecting",
+      "Video Games"
+    ],
+    "total_awards": 12,
+    "total_films": 109
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Samantha_Rao_478&backgroundColor=transparent",
+    "first_name": "Samantha",
+    "last_name": "Rao",
+    "age": 24,
+    "nationality": "Indian",
+    "hobbies": [
+      "Reading"
+    ],
+    "total_awards": 7,
+    "total_films": 35
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Leonardo_Jackman_479&backgroundColor=transparent",
+    "first_name": "Leonardo",
+    "last_name": "Jackman",
+    "age": 64,
+    "nationality": "Australian",
+    "hobbies": [
+      "Painting",
+      "Photography"
+    ],
+    "total_awards": 2,
+    "total_films": 120
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sara_Menon_480&backgroundColor=transparent",
+    "first_name": "Sara",
+    "last_name": "Menon",
+    "age": 62,
+    "nationality": "Indian",
+    "hobbies": [
+      "Cooking"
+    ],
+    "total_awards": 15,
+    "total_films": 172
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Sara_Sanon_481&backgroundColor=transparent",
+    "first_name": "Sara",
+    "last_name": "Sanon",
+    "age": 53,
+    "nationality": "Indian",
+    "hobbies": [
+      "Golf",
+      "Chess"
+    ],
+    "total_awards": 42,
+    "total_films": 228
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Denzel_Johnson_482&backgroundColor=transparent",
+    "first_name": "Denzel",
+    "last_name": "Johnson",
+    "age": 76,
+    "nationality": "British",
+    "hobbies": [
+      "Badminton",
+      "Scuba Diving",
+      "Knitting"
+    ],
+    "total_awards": 6,
+    "total_films": 111
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Ayushmann_Hegde_483&backgroundColor=transparent",
+    "first_name": "Ayushmann",
+    "last_name": "Hegde",
+    "age": 31,
+    "nationality": "Indian",
+    "hobbies": [
+      "Gadget Collecting"
+    ],
+    "total_awards": 2,
+    "total_films": 113
+  },
+  {
+    "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Kiara_Chopra_484&backgroundColor=transparent",
+    "first_name": "Kiara",
+    "last_name": "Chopra",
+    "age": 61,
+    "nationality": "Indian",
+    "hobbies": [
+      "Hiking",
+      "Playing Guitar",
+      "Yoga"
+    ],
+    "total_awards": 2,
+    "total_films": 21
+  }
+]

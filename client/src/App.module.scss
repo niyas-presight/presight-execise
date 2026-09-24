@@ -1,0 +1,33 @@
+.shell {
+  padding-top: 15vh;
+  padding-bottom: 15vh;
+}
+
+.content {
+  gap: var(--mantine-spacing-md);
+}
+
+.eyebrow {
+  letter-spacing: 0.12em;
+  font-size: var(--mantine-font-size-sm);
+  font-weight: 700;
+  color: var(--mantine-color-default-6);
+  text-transform: uppercase;
+}
+
+.title {
+  max-width: 35rem;
+  font-size: 2.8rem;
+  line-height: 1;
+}
+
+.status {
+  margin-top: var(--mantine-spacing-md);
+  color: var(--mantine-color-dimmed);
+}
+
+@media (min-width: 48em) {
+  .title {
+    font-size: 4rem;
+  }
+}

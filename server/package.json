@@ -1,13 +1,25 @@
 {
   "name": "presight-server",
   "version": "1.0.0",
+  "private": true,
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "start": "node dist/main.js",
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json --noEmit --pretty false"
+  },
   "dependencies": {
     "express": "~5.1.0"
   },
   "devDependencies": {
     "@types/express": "~5.0.1",
-    "@types/node-fetch": "~2.6.12"
+    "@types/node": "~22.15.3",
+    "@types/node-fetch": "~2.6.12",
+    "tsx": "~4.19.3",
+    "typescript": "~5.8.3",
+    "vitest": "~3.1.2"
   }
 }
