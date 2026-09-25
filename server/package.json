@@ -9,12 +9,15 @@
     "start": "node dist/main.js",
     "build": "tsc -p tsconfig.json",
     "test": "vitest run",
-    "typecheck": "tsc -p tsconfig.json --noEmit --pretty false"
+    "typecheck": "tsc -p tsconfig.json --noEmit --pretty false",
+    "seed": "tsx src/db/seed.ts"
   },
   "dependencies": {
+    "better-sqlite3": "~11.7.0",
     "express": "~5.1.0"
   },
   "devDependencies": {
+    "@types/better-sqlite3": "~7.6.12",
     "@types/express": "~5.0.1",
     "@types/node": "~22.15.3",
     "@types/node-fetch": "~2.6.12",
