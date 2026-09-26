@@ -4,6 +4,7 @@ import path from 'node:path';
 import { afterEach, describe, expect, it } from 'vitest';
 
 import { closeDatabase, openDatabase } from '../src/db/connection';
+import { getHobbiesForUserIds } from '../src/db/repository';
 import { createSchema } from '../src/db/schema';
 import { loadSeedRecords, seedDatabase } from '../src/db/seed';
 
@@ -74,6 +75,28 @@ describe('database schema and seed', () => {
 
       expect(userCount.count).toBe(records.length);
       expect(hobbyCount.count).toBeGreaterThan(0);
+    } finally {
+      closeDatabase(db);
+    }
+  });
+
+  it('loads hobbies for multiple users through the batched repository lookup', () => {
+    const tempDir = mkdtempSync(path.join(tmpdir(), 'presight-db-'));
+    tempDirectories.push(tempDir);
+    const db = openDatabase(path.join(tempDir, 'actors.sqlite'));
+
+    try {
+      createSchema(db);
+      const records = loadSeedRecords(path.join(__dirname, '../data/actors.json'));
+      seedDatabase(db, records);
+
+      const selectedRecords = records.slice(0, 2);
+      const hobbiesByUserId = getHobbiesForUserIds(db, selectedRecords.map((record) => record.id));
+
+      expect(hobbiesByUserId.size).toBe(2);
+      for (const record of selectedRecords) {
+        expect(hobbiesByUserId.get(record.id)).toEqual(expect.arrayContaining(record.hobbies));
+      }
     } finally {
       closeDatabase(db);
     }

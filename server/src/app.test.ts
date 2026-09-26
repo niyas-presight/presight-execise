@@ -1,8 +1,15 @@
 import { createServer } from 'node:http';
+import { mkdtempSync, rmSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import path from 'node:path';
 import { afterEach, describe, expect, it } from 'vitest';
-import app from './app';
+import { createApp } from './app';
+import { openDatabase } from './db/connection';
+import { createSchema } from './db/schema';
 
 const servers: ReturnType<typeof createServer>[] = [];
+const databases: ReturnType<typeof openDatabase>[] = [];
+const tempDirectories: string[] = [];
 
 afterEach(async () => {
   await Promise.all(
@@ -13,10 +20,22 @@ afterEach(async () => {
         }),
     ),
   );
+  for (const database of databases.splice(0)) {
+    database.close();
+  }
+  for (const directory of tempDirectories.splice(0)) {
+    rmSync(directory, { recursive: true, force: true });
+  }
 });
 
 describe('GET /api/health', () => {
   it('returns an ok status', async () => {
+    const directory = mkdtempSync(path.join(tmpdir(), 'presight-health-'));
+    tempDirectories.push(directory);
+    const database = openDatabase(path.join(directory, 'fixture.sqlite'));
+    databases.push(database);
+    createSchema(database);
+    const app = createApp(database);
     const server = createServer(app);
     servers.push(server);
 
