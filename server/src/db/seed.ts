@@ -6,7 +6,7 @@ import { closeDatabase, openDatabase } from './connection';
 import { createSchema } from './schema';
 import type { ActorSeedRecord, SeedSummary } from '../types/user';
 
-export const DEFAULT_SEED_FILE_PATH = path.resolve(process.cwd(), 'data', 'actors.json');
+export const DEFAULT_SEED_FILE_PATH = path.resolve(__dirname, '../../data/actors.json');
 
 const normalizeHobby = (value: string): string => value.trim();
 
@@ -16,7 +16,7 @@ export function validateSeedRecord(record: unknown): ActorSeedRecord {
   }
 
   const candidate = record as Record<string, unknown>;
-  const requiredFields = ['id', 'avatar', 'first_name', 'last_name', 'age', 'nationality', 'total_films', 'total_awards', 'hobbies'];
+  const requiredFields = ['id', 'avatar', 'first_name', 'last_name', 'age', 'nationality', 'hobbies'];
 
   for (const field of requiredFields) {
     if (!(field in candidate)) {
@@ -34,8 +34,6 @@ export function validateSeedRecord(record: unknown): ActorSeedRecord {
     last_name: String(candidate.last_name),
     age: Number(candidate.age),
     nationality: String(candidate.nationality),
-    total_films: Number(candidate.total_films),
-    total_awards: Number(candidate.total_awards),
     hobbies: normalizedHobbies,
   };
 
@@ -49,14 +47,6 @@ export function validateSeedRecord(record: unknown): ActorSeedRecord {
 
   if (!Number.isInteger(validated.age) || validated.age < 0 || validated.age > 120) {
     throw new Error(`Seed record ${validated.id} has an invalid age: ${validated.age}`);
-  }
-
-  if (!Number.isInteger(validated.total_films) || validated.total_films < 0) {
-    throw new Error(`Seed record ${validated.id} has invalid total_films: ${validated.total_films}`);
-  }
-
-  if (!Number.isInteger(validated.total_awards) || validated.total_awards < 0) {
-    throw new Error(`Seed record ${validated.id} has invalid total_awards: ${validated.total_awards}`);
   }
 
   if (validated.hobbies.length > 10) {
@@ -85,8 +75,8 @@ export function loadSeedRecords(filePath = DEFAULT_SEED_FILE_PATH): ActorSeedRec
 
 export function seedDatabase(database: Database.Database, records: ActorSeedRecord[]): SeedSummary {
   const insertUser = database.prepare(`
-    INSERT INTO users (id, avatar, first_name, last_name, age, nationality, total_films, total_awards)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+    INSERT INTO users (id, avatar, first_name, last_name, age, nationality)
+    VALUES (?, ?, ?, ?, ?, ?)
   `);
 
   const insertHobby = database.prepare(`INSERT OR IGNORE INTO hobbies (value) VALUES (?)`);
@@ -109,8 +99,6 @@ export function seedDatabase(database: Database.Database, records: ActorSeedReco
         record.last_name,
         record.age,
         record.nationality,
-        record.total_films,
-        record.total_awards,
       );
 
       const uniqueHobbies = Array.from(new Set(record.hobbies.map((hobby) => normalizeHobby(hobby)).filter(Boolean)));

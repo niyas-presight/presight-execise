@@ -1,0 +1,79 @@
+.card {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+  gap: var(--mantine-spacing-md);
+  min-width: 0;
+  min-height: 150px;
+  padding: var(--mantine-spacing-md);
+  border-radius: var(--mantine-radius-sm);
+  transition:
+    border-color 140ms ease,
+    background-color 140ms ease;
+}
+
+.card:hover {
+  border-color: light-dark(var(--mantine-primary-color-4), var(--mantine-primary-color-6));
+}
+
+.pattern {
+  position: absolute;
+  inset: auto 0 0;
+  height: 45%;
+  background-image: var(--pattern);
+  background-size: cover;
+  background-position: center;
+  opacity: 0.8;
+  mask-image: linear-gradient(to top, #000 40%, transparent);
+  pointer-events: none;
+}
+
+.card:hover .pattern {
+  background-image: var(--pattern-animated);
+}
+
+.avatar,
+.details {
+  position: relative;
+}
+
+.avatar {
+  flex: none;
+  border: 1px solid
+    light-dark(var(--mantine-primary-color-2), var(--mantine-color-dark-4));
+}
+
+.details,
+.nameBlock {
+  min-width: 0;
+  flex: 1;
+}
+
+.identity {
+  align-items: flex-start;
+}
+
+.name {
+  overflow-wrap: anywhere;
+}
+
+.location {
+  overflow-wrap: anywhere;
+}
+
+.flag {
+  margin-right: 0.4em;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px light-dark(var(--mantine-color-gray-3), var(--mantine-color-dark-4));
+}
+
+.hobbies {
+  min-height: 24px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    transition: none;
+  }
+}

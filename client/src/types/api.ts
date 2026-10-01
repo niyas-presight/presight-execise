@@ -1,27 +1,12 @@
-export type SortField = 'first_name' | 'last_name' | 'age' | 'nationality';
-export type SortDirection = 'asc' | 'desc';
+export type SortField = "first_name" | "last_name" | "age" | "nationality";
+export type SortDirection = "asc" | "desc";
 
-export interface UsersQuery {
+export interface FilterState {
   q: string;
-  nationality: string[];
-  hobby: string[];
+  hobbies: string[];
+  nationalities: string[];
   sort: SortField;
   direction: SortDirection;
-  page: number;
-  pageSize: number;
-}
-
-export interface ApiIssue {
-  field: string;
-  message: string;
-}
-
-export interface ApiErrorResponse {
-  error: {
-    code: string;
-    message: string;
-    issues?: ApiIssue[];
-  };
 }
 
 export interface FacetCount {
@@ -55,5 +40,18 @@ export interface UsersResponse {
   facets: {
     hobbies: FacetCount[];
     nationalities: FacetCount[];
+  };
+}
+
+export interface ApiIssue {
+  field: string;
+  message: string;
+}
+
+export interface ApiErrorEnvelope {
+  error: {
+    code: string;
+    message: string;
+    issues?: ApiIssue[];
   };
 }

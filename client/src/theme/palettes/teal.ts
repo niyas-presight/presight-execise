@@ -1,6 +1,6 @@
 import type { MantineColorsTuple } from '@mantine/core';
 
-export const defaultTheme: MantineColorsTuple = [
+export const teal: MantineColorsTuple = [
   '#e6f7fa',
   '#cceff4',
   '#99dde9',

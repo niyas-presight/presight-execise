@@ -18,8 +18,6 @@ interface UserRow {
   last_name: string;
   age: number;
   nationality: string;
-  total_films: number;
-  total_awards: number;
 }
 
 function filteredUsersCte(query: UsersQuery): {
@@ -29,12 +27,17 @@ function filteredUsersCte(query: UsersQuery): {
   const conditions: string[] = [];
   const parameters: Array<string | number> = [];
 
-  if (query.q) {
-    const escapedPrefix = `${query.q.replace(/[\\%_]/g, "\\$&")}%`;
+  const searchTerms = query.q.trim().split(/\s+/).filter(Boolean);
+  if (searchTerms.length > 0) {
     conditions.push(
-      "(u.first_name LIKE ? ESCAPE '\\' OR u.last_name LIKE ? ESCAPE '\\')",
+      `(${searchTerms.map(() => "(u.first_name LIKE ? ESCAPE '\\' OR u.last_name LIKE ? ESCAPE '\\')").join(" OR ")})`,
     );
-    parameters.push(escapedPrefix, escapedPrefix);
+    parameters.push(
+      ...searchTerms.flatMap((term) => {
+        const escapedPrefix = `${term.replace(/[\\%_]/g, "\\$&")}%`;
+        return [escapedPrefix, escapedPrefix];
+      }),
+    );
   }
 
   if (query.nationality.length > 0) {
@@ -112,7 +115,7 @@ export function getUsers(
     .prepare(
       `
       ${filtered.sql}
-      SELECT id, avatar, first_name, last_name, age, nationality, total_films, total_awards
+      SELECT id, avatar, first_name, last_name, age, nationality
       FROM filtered_users
       ORDER BY ${sortColumns[query.sort]} ${query.direction}, id ASC
       LIMIT ? OFFSET ?
@@ -163,8 +166,6 @@ export function getUsers(
       lastName: row.last_name,
       age: row.age,
       nationality: row.nationality,
-      totalFilms: row.total_films,
-      totalAwards: row.total_awards,
       hobbies: hobbiesByUserId.get(row.id) ?? [],
     })),
     pagination: {

@@ -1,8 +1,2 @@
-import { createTheme } from '@mantine/core';
-import { defaultTheme } from './colors';
-
-export const theme = createTheme({
-  primaryColor: 'default',
-  colors: { default: defaultTheme },
-  defaultRadius: 'md',
-});
+export { createAppTheme } from './theme';
+export { DEFAULT_PALETTE, palettes, type PaletteName } from './palettes';

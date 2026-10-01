@@ -1,0 +1,28 @@
+.scrollParent {
+  position: relative;
+  height: 100%;
+  overflow: auto;
+  overscroll-behavior: contain;
+  min-width: 0;
+  padding-bottom: var(--mantine-spacing-md);
+}
+
+.virtualItems {
+  position: relative;
+}
+
+.item {
+  position: absolute;
+  box-sizing: border-box;
+  min-height: 150px;
+  margin: 0;
+}
+
+.nextPageLoader {
+  min-height: 64px;
+  padding-block: var(--mantine-spacing-xs);
+}
+
+.gridItem {
+  padding-right: var(--mantine-spacing-sm);
+}

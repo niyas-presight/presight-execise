@@ -17,6 +17,7 @@ export function createApp(database: InstanceType<typeof Database>) {
   });
   app.use('/api', createUsersRouter(database));
   app.use('/api', createReferenceRouter(database));
+
   app.use((_request, response) => {
     response.status(404).json({
       error: { code: 'NOT_FOUND', message: 'The requested resource was not found.' },

@@ -1,0 +1,45 @@
+@use "../styles/breakpoints" as bp;
+
+.controls {
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
+.controls :global(.mantine-SegmentedControl-root) {
+  height: 36px;
+  --sc-padding: 0.125rem 0.625rem;
+}
+
+@include bp.mobile {
+  .controls {
+    flex-wrap: nowrap;
+    align-items: flex-end;
+    width: 100%;
+  }
+
+  .controls :global(.mantine-Select-root) {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
+  .controls :global(.mantine-SegmentedControl-root) {
+    flex: 1 1 0;
+    min-width: 0;
+    width: 100%;
+  }
+
+  .controls :global(.mantine-SegmentedControl-control) {
+    flex: 1 1 0;
+  }
+
+  .controls :global(.mantine-SegmentedControl-label) {
+    font-size: 0.75rem;
+    line-height: 1.2;
+    white-space: nowrap;
+    padding-inline: 0.25rem;
+    min-height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

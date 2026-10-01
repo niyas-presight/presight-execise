@@ -11,14 +11,12 @@
   ],
   "scripts": {
     "dev": "lerna run dev --parallel",
-    "start": "lerna run start --parallel",
     "build": "lerna run build",
-    "test": "lerna run test",
     "typecheck": "lerna run typecheck",
     "seed": "yarn workspace presight-server seed"
   },
   "devDependencies": {
-    "lerna": "~8.2.1",
-    "typescript": "~5.8.3"
+    "lerna": "~10.0.1",
+    "typescript": "~7.0.2"
   }
 }

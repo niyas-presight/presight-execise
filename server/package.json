@@ -6,23 +6,19 @@
   "license": "MIT",
   "scripts": {
     "dev": "tsx watch src/main.ts",
-    "start": "node dist/main.js",
     "build": "tsc -p tsconfig.json",
-    "test": "vitest run",
     "typecheck": "tsc -p tsconfig.json --noEmit --pretty false",
     "seed": "tsx src/db/seed.ts"
   },
   "dependencies": {
-    "better-sqlite3": "~11.7.0",
-    "express": "~5.1.0"
+    "better-sqlite3": "~13.0.3",
+    "express": "~5.2.1"
   },
   "devDependencies": {
-    "@types/better-sqlite3": "~7.6.12",
-    "@types/express": "~5.0.1",
-    "@types/node": "~22.15.3",
-    "@types/node-fetch": "~2.6.12",
-    "tsx": "~4.19.3",
-    "typescript": "~5.8.3",
-    "vitest": "~3.1.2"
+    "@types/better-sqlite3": "~9.6.0",
+    "@types/express": "~5.0.6",
+    "@types/node": "~26.6.3",
+    "tsx": "~4.23.15",
+    "typescript": "~7.0.2"
   }
 }
