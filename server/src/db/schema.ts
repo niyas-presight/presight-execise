@@ -25,7 +25,7 @@ export function createSchema(database: Database.Database): void {
       FOREIGN KEY (hobby_id) REFERENCES hobbies(id) ON DELETE CASCADE
     );
 
-    CREATE INDEX IF NOT EXISTS idx_users_nationality ON users (nationality);
+    CREATE INDEX IF NOT EXISTS idx_users_nationality ON users (nationality COLLATE NOCASE);
     CREATE INDEX IF NOT EXISTS idx_users_first_name_search ON users (first_name COLLATE NOCASE);
     CREATE INDEX IF NOT EXISTS idx_users_last_name_search ON users (last_name COLLATE NOCASE);
     CREATE INDEX IF NOT EXISTS idx_user_hobbies_hobby_id ON user_hobbies (hobby_id);

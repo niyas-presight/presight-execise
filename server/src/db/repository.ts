@@ -42,7 +42,7 @@ function filteredUsersCte(query: UsersQuery): {
 
   if (query.nationality.length > 0) {
     conditions.push(
-      `u.nationality IN (${query.nationality.map(() => "?").join(", ")})`,
+      `u.nationality COLLATE NOCASE IN (${query.nationality.map(() => "?").join(", ")})`,
     );
     parameters.push(...query.nationality);
   }
